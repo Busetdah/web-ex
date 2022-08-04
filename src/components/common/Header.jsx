@@ -66,16 +66,16 @@ const Header = () => {
                         <Link href="/about">Product</Link>
                         <ul className="sub-menu">
                           <li>
-                            <a href="https://www.awila.de/" target="_blank" rel="noreferrer">Awila</a>
+                            <a href="https://www.awila.de/">Awila</a>
                           </li>
                           <li>
-                            <a href="https://www.sukup.com/" target="_blank" rel="noreferrer">Sukup</a>
+                            <a href="https://www.sukup.com/">Sukup</a>
                           </li>
                           <li>
-                            <a href="https://www.concetti.com/en-us/" target="_blank" rel="noreferrer">Concetti</a>
+                            <a href="https://www.concetti.com/en-us/">Concetti</a>
                           </li>
                           <li>
-                            <a href="https://www.emka-incubators.com/en/" target="_blank" rel="noreferrer">Emka Incubator</a>
+                            <a href="https://www.emka-incubators.com/en/">Emka Incubator</a>
                           </li>
                           
                         </ul>

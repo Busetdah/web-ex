@@ -149,16 +149,16 @@ const Sidebar = ({ sidebarTwo }) => {
                       className="sidebar_sub_menu submenu text-black"
                     >
                          <li>
-                            <a href="https://www.awila.de/" target="_blank">Awila</a>
+                            <a href="https://www.awila.de/">Awila</a>
                           </li>
                           <li>
-                            <a href="https://www.sukup.com/" target="_blank">Sukup</a>
+                            <a href="https://www.sukup.com/">Sukup</a>
                           </li>
                           <li>
-                            <a href="https://www.concetti.com/en-us/" target="_blank">Concetti</a>
+                            <a href="https://www.concetti.com/en-us/">Concetti</a>
                           </li>
                           <li>
-                            <a href="https://www.emka-incubators.com/en/" target="_blank">Emka Incubator</a>
+                            <a href="https://www.emka-incubators.com/en/">Emka Incubator</a>
                           </li>
                     </ul>
                   </Collapsible>

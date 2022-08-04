@@ -82,7 +82,7 @@ const ContactAreaTwo = () => {
                         placeholder="Message"
                         name="message"
                       ></textarea>
-                       <input type="file" accept="image/png, image/jpeg, image/jpg" name="menu_image" class="box"></input>
+                       <input type="file" accept="image/png, image/jpeg, image/jpg" name="menu_image" className="box"></input>
                       <div className="col-lg-6">
                         <div className="contact-filed contact-icon-mail mb-20">
                           

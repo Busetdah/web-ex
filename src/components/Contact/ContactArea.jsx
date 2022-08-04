@@ -99,7 +99,7 @@ const ContactArea = () => {
                   <a href="#">
                     <i className="fa-brands fa-twitter"></i>
                   </a>
-                  <a href="https://www.instagram.com/rakhaabr_/ " target="_blank">
+                  <a href="https://www.instagram.com/rakhaabr_/ ">
                     <i className="fa-brands fa-instagram"></i>
                   </a>
                   <a href="#">
