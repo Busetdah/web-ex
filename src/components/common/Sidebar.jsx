@@ -160,6 +160,9 @@ const Sidebar = ({ sidebarTwo }) => {
                           <li>
                             <a href="https://www.emka-incubators.com/en/">Emka Incubator</a>
                           </li>
+                          <li>
+                            <a href="https://www.tedom.com/">Tedom</a>
+                          </li>
                     </ul>
                   </Collapsible>
 

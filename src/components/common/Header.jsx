@@ -77,7 +77,9 @@ const Header = () => {
                           <li>
                             <a href="https://www.emka-incubators.com/en/">Emka Incubator</a>
                           </li>
-                          
+                          <li>
+                            <a href="https://www.tedom.com/">Tedom</a>
+                          </li>
                         </ul>
                       </li>
                       <li className="has-dropdown">
