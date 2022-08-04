@@ -13,7 +13,7 @@ const BlogDetailsArea = () => {
                     <img src="assets/img/blog/iwak lele.jpg" alt="blog-img" />
                   </div>
                   <h5 className="tp-blog__sm-title mb-20">
-                 Aqua Food
+                 Aqua Feed
                   </h5>
                   <p>
                   The challenge with aqua feed production is to achieve the right density and to produce floating, slow sinking or sinking pellets, while water stability is ensured. As a result of an increase of prices for animal protein and the call for sustainability feed producers look at alternative ingredients which leads to the processing of an increased number of raw materials and ingredients.

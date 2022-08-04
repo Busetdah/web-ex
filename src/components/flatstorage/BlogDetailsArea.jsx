@@ -61,7 +61,7 @@ Cleaning – at the start of the soybean processing, it is important to remove s
                  The extruder, as our offered, is operated with a steam-conditioner in front of the extruder barrel, when start capacities of 1 t/h and more are required. This steam conditioning increases the extruder capacity, and reduces the wearing parts cost significantly (whilst maintaining a high quality end product).
                  </p>
                  <h5 className="tp-blog__sm-title mb-20">
-                 Silo storage, Grain handling, dryers
+                 Silo storage, Grains handling, dryers
                   </h5>
                  
                   <p className="b-text mb-25">
