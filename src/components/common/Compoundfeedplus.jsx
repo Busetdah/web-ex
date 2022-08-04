@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-const Compoundfeedplus = ({ title, subtitle }) => {
+const compoundfeedplus = ({ title, subtitle }) => {
   return (
     <>
       <section
@@ -37,4 +37,4 @@ const Compoundfeedplus = ({ title, subtitle }) => {
   );
 };
 
-export default Compoundfeedplus;
+export default compoundfeedplus;

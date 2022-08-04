@@ -1,5 +1,5 @@
 import BlogDetailsArea from '../components/compoundfeed/BlogDetailsArea';
-import Breadcrumb from '../components/common/compoundfeedplus';
+import Breadcrumb from '../components/common/Compoundfeedplus';
 import Footer from '../components/common/Footer';
 import Header from '../components/common/Header';
 import SEO from '../components/seo';
