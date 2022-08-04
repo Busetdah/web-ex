@@ -75,7 +75,7 @@ const Sidebar = ({ sidebarTwo }) => {
             <div className="sidebar__logo mb-40">
               <Link href="/">
                 <a>
-                  <img src="assets/img/logo/logo-black.png" alt="logo" />
+                  <img src="assets/img/logo/logo-deltaeng8.png" alt="logo" />
                 </a>
               </Link>
             </div>
