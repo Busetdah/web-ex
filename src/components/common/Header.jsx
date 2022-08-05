@@ -48,13 +48,13 @@ const Header = () => {
                           </li>
                           <li>
                             <Link href="/Flat">
-                              <a>Flat Storage Warehaouse</a>
+                              <a>Flat Storage Warehouse</a>
 
                               </Link>
                           </li>
                           <li>
                             <Link href="/Packging">
-                              <a>Packging & Robotic Palletizing</a></Link>
+                              <a>Packaging & Robotic Palletizing</a></Link>
                           </li>
                           <li>
                             <Link href="/Automation">
@@ -92,13 +92,13 @@ const Header = () => {
                             <a href="pet-food"  >Pet Food</a>
                           </li>
                           <li>
-                            <a href="aqua-food" >Aqua Food</a>
+                            <a href="aqua-food" >Aqua Feed</a>
                           </li>
                           <li>
                             <a href="pre-mix" >Premix & Mash Feed</a>
                           </li>
                           <li>
-                            <a href="flat-storage">Grain, Soybean & Flat Storage</a>
+                            <a href="flat-storage">Grains, Soybean & Flat Storage</a>
                           </li>
                         </ul>
                       </li>
@@ -119,13 +119,13 @@ const Header = () => {
                             <Link href="/blog-details">Pet Food</Link>
                           </li>
                           <li>
-                            <Link href="/blog-details">Aqua Food</Link>
+                            <Link href="/blog-details">Aqua Feed</Link>
                           </li>
                           <li>
                             <Link href="/blog-details">Premix</Link>
                           </li>
                           <li>
-                            <Link href="/blog-details">Grain, Soybean & Flat Storage</Link>
+                            <Link href="/blog-details">Grains, Soybean & Flat Storage</Link>
                           </li>
                         </ul>
                       </li>

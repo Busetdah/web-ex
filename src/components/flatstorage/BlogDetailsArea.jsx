@@ -65,7 +65,7 @@ Cleaning – at the start of the soybean processing, it is important to remove s
                   </h5>
                  
                   <p className="b-text mb-25">
-                  Delta Engineering is focused on exceptional quality, ease of installation, durability and flexibility across our full range of grain storage solutions Steel silos including corrugated, and material handling, flat-bottom, and hopper bins. aeration and conditioning equipment includes axial and centrifugal fans, industrial fans, sweep auger systems, vents and exhausters, and aeration floors. grains & material handling, chain and flight conveyors, bucket elevators, and cleaning, drying, steel building.
+                  Delta Engineering is focused on exceptional quality, ease of installation, durability and flexibility across our full range of grains storage solutions Steel silos including corrugated, and material handling, flat-bottom, and hopper bins. aeration and conditioning equipment includes axial and centrifugal fans, industrial fans, sweep auger systems, vents and exhausters, and aeration floors. grains & material handling, chain and flight conveyors, bucket elevators, and cleaning, drying, steel building.
 Our equipment set the standard in the industry and show our commitment to the best quality products.
 
 </p>
@@ -81,7 +81,7 @@ Our equipment set the standard in the industry and show our commitment to the be
                       Soybean
                     </a>
                     <a href="#" rel="tag">
-                      Grain
+                      Grains
                     </a>
                     <a href="#" rel="tag">
                       Flat Storage

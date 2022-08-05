@@ -25,7 +25,7 @@ const AboutArea = () => {
                     </h5>
                   </div>
                   <p>
-                  Our flat storage system can be made according to customer's size and requirement. They store grain, flour products, SBM, CGM, in flat warehouse collection points.
+                  Our flat storage system can be made according to customer's size and requirement. They store grains, flour products, SBM, CGM, in flat warehouse collection points.
 Storage is accessed via material handling, screw / mobile conveyor which can be selected by the customer with the ultimate goal of maximizing storage capacity. Customers can maximize capacity according to their size and cost budget.
 Our flat warehouse design has advantages for high storage mobility, lace care, with storage range with easy access in options for multiple bulk products, in the same location, with different boxes.
 The selection of storage with different boxes in one location can use the remote control, or on the control room controller.
