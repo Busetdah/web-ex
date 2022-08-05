@@ -19,9 +19,7 @@ const Breadcrumb = ({ title, subtitle }) => {
               <div className="page__title-wrapper mt-100">
                 <div className="breadcrumb-menu">
                   <ul>
-                    <li>
-                      <Link href="/">Home</Link>
-                    </li>
+                   
                     <li>
                       <span>{title}</span>
                     </li>

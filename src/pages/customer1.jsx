@@ -2,7 +2,7 @@ import Breadcrumb from "../components/common/Silow & Gry Drayer";
 import Footer from "../components/common/Footer";
 import Header from "../components/common/Header";
 import SEO from "../components/seo";
-import SmNavigation from "../components/customer1/SmNavigation";
+import BlogArea from '../components/customer1/BlogArea';
 import BrandArea from "../components/customer1/BrandArea";
 import Testimonial from "../components/customer1/Testimonial";
 
@@ -11,8 +11,8 @@ const ServicesDetails = () => {
         <main>
             <SEO pageTitle="customer" />
             <Header/>
-            <Breadcrumb title="Our Customer" subtitle="Customer" />
-            <SmNavigation/>
+            <Breadcrumb title=" " subtitle="Our Customer" />
+            <BlogArea/>
             <BrandArea/>
             <Testimonial/>
             <Footer/>

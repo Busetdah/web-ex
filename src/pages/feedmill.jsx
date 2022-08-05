@@ -14,7 +14,7 @@ const ServicesDetails = () => {
         <main>
             <SEO pageTitle="Feedmill" />
             <Header/>
-            <Breadcrumb title="Installations" subtitle="Feedmill" />
+            <Breadcrumb title=" " subtitle="Feedmill" />
             <AboutArea/>
             <SmServices/>
             <Testimonial/>

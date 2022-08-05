@@ -13,9 +13,9 @@ import SdBanner from "../components/Sillo & Gry Drayer/SdBanner";
 const ServicesDetails = () => {
     return (
         <main>
-            <SEO pageTitle="Sillo & Gry Drayer" />
+            <SEO pageTitle="Silo & Grains Drayer" />
             <Header/>
-            <Breadcrumb title="Installation" subtitle="Silo & Gry Drayer" />
+            <Breadcrumb title=" " subtitle="Silo & Grains Drayer" />
             <AboutArea/>
             <SmServices/>
             <Testimonial/>

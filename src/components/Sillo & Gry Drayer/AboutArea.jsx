@@ -21,7 +21,7 @@ const AboutArea = () => {
                 <div className="about__info pb-20">
                   <div className="section-2__wrapper mb-30">
                     <h5 className="section__title-sm">
-                      An effective installations for companies
+                      Silo & Grains Dryer installations
                     </h5>
                   </div>
                   <p>

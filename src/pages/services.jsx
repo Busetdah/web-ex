@@ -11,7 +11,7 @@ const Services = () => {
         <main>
             <SEO pageTitle="Services" />
             <Header/>
-            <Breadcrumb title="Service" subtitle="Delta Services" />
+            <Breadcrumb title=" " subtitle="Delta Services" />
             <ServicesArea/>
             <BlogArea/>
             <Footer/>

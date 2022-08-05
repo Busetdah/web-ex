@@ -31,7 +31,7 @@ const AboutUs = () => {
                 </p>
                 <div className="ab-author mb-30">
                   <h5>
-                    Yusuf Zakaria, S.Tr.T <span>- Founder</span>
+                    Arif Yulianto, S.T <span>- Founder</span>
                   </h5>
                 </div>
                 <p className="sm-text mb-45">

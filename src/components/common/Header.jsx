@@ -35,7 +35,7 @@ const Header = () => {
                         <Link href="/">Home</Link>
                       </li>
                       <li className="has-dropdown">
-                        <Link href="/services">Installation</Link>
+                        <Link href=" ">Installation</Link>
                         <ul className="sub-menu">
                           <li>
                             <Link href="/feedmill">
@@ -43,7 +43,7 @@ const Header = () => {
                           </li>
                           <li>
                             <Link href="/Sillow">
-                              <a>Sillo & Grain Dryer</a>
+                              <a>Silo & Grains Dryer</a>
                             </Link>
                           </li>
                           <li>
@@ -63,7 +63,7 @@ const Header = () => {
                         </ul>
                       </li>
                       <li className="has-dropdown">
-                        <Link href="/about">Product</Link>
+                        <Link href=" ">Product</Link>
                         <ul className="sub-menu">
                           <li>
                             <a href="https://www.awila.de/">Awila</a>
@@ -83,7 +83,7 @@ const Header = () => {
                         </ul>
                       </li>
                       <li className="has-dropdown">
-                        <Link href="/blog">Process</Link>
+                        <Link href=" ">Process</Link>
                         <ul className="sub-menu">
                           <li>
                             <a href="compound-feed"   >Compound Feed </a>
@@ -110,7 +110,7 @@ const Header = () => {
                        
                       </li>
                       <li className="has-dropdown">
-                        <Link href="/blog">Download</Link>
+                        <Link href=" ">Download</Link>
                         <ul className="sub-menu">
                           <li>
                             <Link href="/blog">Brochure</Link>

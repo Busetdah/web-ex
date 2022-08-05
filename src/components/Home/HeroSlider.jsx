@@ -11,8 +11,8 @@ const HeroSlider = () => {
   const sliderData = [
     {
       id: 1,
-      title: "Industrial",
-      subtitle: "Installation Works",
+      title: "Installation",
+      subtitle: "Feedmill Industrial",
       img: "assets/img/slider/deltaeng6.jpeg",
     },
     {
@@ -24,7 +24,7 @@ const HeroSlider = () => {
     {
       id: 3,
       title: "Architecture",
-      subtitle: "Feedmill Material Handling & Grains Storage Works",
+      subtitle: "Feedmill Material Handling & Grains Storage",
       img: "assets/img/slider/deltaeng5.jpeg",
     },
     {
@@ -72,15 +72,7 @@ const HeroSlider = () => {
                           <div className="slider-contant mt-25">
                             <span>{slider.title}</span>
                             <h2 className="slider-title">{slider.subtitle}</h2>
-                            <div className="slider-button">
-                              <Link href="services">
-                                <a className="tp-btn mr-30">Our Services
-                                <i className="fal fa-angle-right"></i></a>
-                              </Link>
-                              <Link href="/about" >
-                                <a className="tp-btn-2"> Learn More</a>                             
-                              </Link>
-                            </div>
+                            
                           </div>
                         </div>
                       </div>

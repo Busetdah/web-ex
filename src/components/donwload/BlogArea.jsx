@@ -35,7 +35,7 @@ const BlogArea = () => {
                   <p>* Energy efficiency</p>
                   <p>* Feed mill automation</p>
           <div className="row mt-40">
-            {BlogData.slice(0, 5).map((blog) => {
+            {BlogData.slice(0, 6).map((blog) => {
               return (
                 <div key={blog.id} className="col-xl-4 col-lg-4 col-md-6">
                   <div className="blog__item-2 blog__item-2-df mb-40">
@@ -45,7 +45,12 @@ const BlogArea = () => {
                           <a><img src={`${blog.imgTwo}`} alt="blog-img" /></a>
                         </Link>
                       </div>
-                      
+                      <div className="blog__item-2-date blog__item-2-date-df">
+                        <a href="#" className="month">
+                          {blog.date.substring(4, 6)}
+                          <span>{blog.date.substring(0, 3)}</span>
+                        </a>
+                      </div>
                     </div>
                     <div className="blog__item-2-content">
                       <div className="blog__meta">
@@ -63,7 +68,11 @@ const BlogArea = () => {
                         <Link href="/blog-details">{blog.title}</Link>
                       </h5>
                     </div>
-                   
+                    <div className="blog__btn-2">
+                      <Link href="/blog-details">
+                       <a className="link-btn">Read more <i className="fal fa-long-arrow-right"></i></a>
+                      </Link>
+                    </div>
                   </div>
                 </div>
               );

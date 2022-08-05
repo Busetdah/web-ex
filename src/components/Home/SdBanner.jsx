@@ -65,9 +65,7 @@ const SdBanner = () => {
                         <div className="col-xl-3 banner-slide-height">
                           <div className="slide-border"></div>
                           <div className="sd-content">
-                            <span className="sd-meta">
-                            {banner.tittle}
-                            </span>
+                            
                             <h5>
                               <Link href="/portfolio-details">
                               {banner.subtitle}
@@ -78,9 +76,7 @@ const SdBanner = () => {
                                 <a href={banner.link}> <i className="fal fa-plus"></i></a>
                               </Link>
                               <span>
-                                <Link href="/portfolio-details">
-                                  {banner.link}
-                                </Link>
+                                
                               </span>
                             </div>
                             <div className="sd-bg-icon">
