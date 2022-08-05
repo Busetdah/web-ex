@@ -7,7 +7,7 @@ const Breadcrumb = ({ title, subtitle }) => {
         className="page__title-area page__title-height page__title-overlay 
         d-flex align-items-center"
         style={{
-          background: `url(assets/img/bg/factory.jpg)`,
+          background: `url(assets/img/bg/flat2.jpg)`,
           backgroundRepeat: "no-repeat",
           backgroundPosition: "center",
           backgroundSize: "cover",
