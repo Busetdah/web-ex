@@ -10,21 +10,30 @@ const BlogArea = () => {
             <div className="col-xl-6 col-lg-6">
               <div className="section__wrapper mb-40">
                 <h4 className="section__title">
-                  Our Project
+                  Project
                 </h4>
                 <div className="r-text">
-                  <span> </span>
+                  <span></span>
                 </div>
               </div>
             </div>
-            <div className="col-xl-6 col-lg-6">
-              <div className="team__buttons text-lg-end">
-                <Link href="/blog-details" >
-                  <a className="tp-join-btn">Related News</a>
-                </Link>
-              </div>
-            </div>
           </div>
+                  <p>
+                  We creates solutions in the design and manufacture of equipment and complete installations for the grain processing and mixed-feed industries. does business in every product as dependable, high-quality component supplier and also as a prime contractor or subcontractor on large-scale projects. Every installation is assigned to a dedicated team of engineers and product specialists, experienced in performance-based design and manufacturing.
+                  </p>
+                  <p>
+                  We design and build installations to meet specific customer needs, according to the latest standards of safety, quality, and reliability. The best solutions are the result of intensive cooperation with our partners and clients.
+                  </p>
+                  <p>
+                  This is a challenge not only for the food industry but also definitely for the feed industry. The better the fodder for the species that give us milk, cheese and meat, the better the food on the table. It's that simple. But this is easier said than done. In a time of rising energy prices, resource shortages, emission targets and changing laws, the compound feed industry is being challenged to become more sustainable. Simultaneously the feed mill manager must meet his goal of maximizing sales or optimizing feed for meat, milk or egg production. Experts predict dramatic changes to the world's feed mills over the next 10 years. And how true this is, we don't have to wait 10 years; it has started Especially Europe for now in asia.
+                  The owners have started to think about the future feed mill industry, having very clear goals about what they want to achieve with their new feed mill.
+                  The factory built today is a modern feed mill integrated with new industrial technology and a high level of automation is applied to achieve the best in:
+                  </p>
+                	
+                  <p>* Flexibility and efficiency </p>
+                  <p>* Cleanliness level</p>
+                  <p>* Energy efficiency</p>
+                  <p>* Feed mill automation</p>
           <div className="row mt-40">
             {BlogData.slice(0, 6).map((blog) => {
               return (
