@@ -13,9 +13,9 @@ import SdBanner from "../components/Packging/SdBanner";
 const ServicesDetails = () => {
     return (
         <main>
-            <SEO pageTitle="Packging" />
+            <SEO pageTitle="Packaging" />
             <Header/>
-            <Breadcrumb title=" " subtitle="Pacakging & Robotic Palletizing" />
+            <Breadcrumb title=" " subtitle="Packaging & Robotic Palletizing" />
             <AboutArea/>
             <SmServices/>
             <Testimonial/>

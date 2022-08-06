@@ -21,7 +21,7 @@ const AboutArea = () => {
                 <div className="about__info pb-20">
                   <div className="section-2__wrapper mb-30">
                     <h5 className="section__title-sm">
-                      Packging & Roboting Palletizing Installations
+                      Packaging & Roboting Palletizing Installations
                     </h5>
                   </div>
                   <p>
