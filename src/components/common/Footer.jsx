@@ -147,7 +147,7 @@ const Footer = () => {
                 <div className="col-xl-6 col-lg-6 col-md-6 col-sm-6">
                   <div className="footer__copyright-text">
                     <p>
-                      Copyright & Design By <a href="#">@fikriadn12@rakhaabr_@aprianto.wpj</a> - 2022
+                      Copyright & Design By <a href="#">Delta Engineering</a> - 2022
                     </p>
                   </div>
                 </div>
