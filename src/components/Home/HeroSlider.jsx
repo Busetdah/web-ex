@@ -23,14 +23,14 @@ const HeroSlider = () => {
     },
     {
       id: 3,
-      title: "Architecture",
+      title: "Design",
       subtitle: "Feedmill Material Handling & Grains Storage",
       img: "assets/img/slider/deltaeng5.jpeg",
     },
     {
       id: 4,
-      title: "Construction",
-      subtitle: "Metal Works",
+      title: "Constructions",
+      subtitle: "Steel Structure",
       img: "assets/img/slider/deltaeng4.jpeg",
     },
   ];
