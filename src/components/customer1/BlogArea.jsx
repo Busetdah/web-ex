@@ -8,16 +8,13 @@ const BlogArea = () => {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-xl-6 col-lg-6">
-              <div className="section__wrapper mb-40">
-                <h4 className="section__title">
-                Our Customer
-                </h4>
-                <div className="r-text">
-                  <span></span>
-                </div>
+              <div className="section__wrapper mb-20">
               </div>
             </div>
           </div>
+          <h5 className="tp-blog__sm-title mb-20">
+                 Our customer
+                    </h5>
                   <p>
                   Our company specializes in providing solutions and meeting all customer needs.
                   </p>

@@ -15,12 +15,11 @@ const ServicesDetails = () => {
         <main>
             <SEO pageTitle="Packging" />
             <Header/>
-            <Breadcrumb title=" " subtitle="Packging & Robotic Palletizing" />
+            <Breadcrumb title=" " subtitle="Pacakging & Robotic Palletizing" />
             <AboutArea/>
             <SmServices/>
             <Testimonial/>
             <ServicesDesc/>
-            <SmNavigation/>
             <SdBanner/>
             <Footer/>
         </main>

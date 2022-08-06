@@ -19,7 +19,6 @@ const ServicesDetails = () => {
             <SmServices/>
             <Testimonial/>
             <ServicesDesc/>
-            <SmNavigation/>
             <SdBanner/>
             <Footer/>
         </main>

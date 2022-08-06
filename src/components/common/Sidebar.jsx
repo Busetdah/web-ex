@@ -127,7 +127,7 @@ const Sidebar = ({ sidebarTwo }) => {
                               </Link>
                           </li>
                           <li>
-                            <Link href="/Packging">
+                            <Link href="/Packaging">
                               <a>Packaging & Robotic Palletizing</a></Link>
                           </li>
                           <li>
