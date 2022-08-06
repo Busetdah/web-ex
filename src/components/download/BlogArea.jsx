@@ -19,7 +19,7 @@ const BlogArea = () => {
             </div>
           </div>
                   <p>
-                  Since the founding of our company, we have acquired more than 100 years of experience in a process of continuous development, improving and enhancing the performance of the equipment and processes by applying modern design standards and employing the latest production techniques.
+                  Since the founding of our company, we have acquired more than 21 years of experience in a process of continuous development, improving and enhancing the performance of the equipment and processes by applying modern design standards and employing the latest production techniques.
 
 We design and manufacture all kind of equipment for processing lines and installations like conveying systems, hammer mills, mixers, weighing and dosing installations, sterilization and pelleting systems as well as storage facilities.
 
