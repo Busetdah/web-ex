@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import BlogData from "../../data/blogData";
+import BlogData from "../../data/downloadData";
 
 const BlogArea = () => {
   return (
@@ -35,29 +35,24 @@ const BlogArea = () => {
                   <p>* Energy efficiency</p>
                   <p>* Feed mill automation</p>
           <div className="row mt-40">
-            {BlogData.slice(0, 6).map((blog) => {
+            {BlogData.slice(0, 5).map((blog) => {
               return (
                 <div key={blog.id} className="col-xl-4 col-lg-4 col-md-6">
                   <div className="blog__item-2 blog__item-2-df mb-40">
                     <div className="blog__item-2-image">
                       <div className="blog__item-2-image-inner w-img">
                         <Link href="/blog-details">
-                          <a><img src={`${blog.imgTwo}`} alt="blog-img" /></a>
+                          <a><img src={`${download.imgTwo}`} alt="blog-img" /></a>
                         </Link>
                       </div>
-                      <div className="blog__item-2-date blog__item-2-date-df">
-                        <a href="#" className="month">
-                          {blog.date.substring(4, 6)}
-                          <span>{blog.date.substring(0, 3)}</span>
-                        </a>
-                      </div>
+                      
                     </div>
                     <div className="blog__item-2-content">
                       <div className="blog__meta">
                         <div className="blog__author">
                           <i className="fal fa-user"></i>
                           <span>
-                            <a href="#">{blog.authorThree}</a>
+                            <a href=" ">{download.authorThree}</a>
                           </span>
                         </div>
                         <div className="blog__catagory">
@@ -65,14 +60,10 @@ const BlogArea = () => {
                         </div>
                       </div>
                       <h5 className="blog__sm-title">
-                        <Link href="/blog-details">{blog.title}</Link>
+                        <a href=" ">{download.title}</a>
                       </h5>
                     </div>
-                    <div className="blog__btn-2">
-                      <Link href="/blog-details">
-                       <a className="link-btn">Read more <i className="fal fa-long-arrow-right"></i></a>
-                      </Link>
-                    </div>
+                   
                   </div>
                 </div>
               );

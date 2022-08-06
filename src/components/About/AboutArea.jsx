@@ -51,7 +51,7 @@ const AboutArea = () => {
               <div className="ab-left-content">
                 <div className="section__wrapper mb-30">
                   <h4 className="section__title">
-                    We can take your business to the next level.
+                    Our Company Delta Engineering.
                   </h4>
                   <div className="r-text">
                     <span>about us</span>
@@ -63,7 +63,7 @@ const AboutArea = () => {
                 </p>
                 <div className="ab-author mb-30">
                   <h5>
-                   Yusuf Zakaria <span>- Founder</span>
+                   Arif Yulianto, S.T <span>- Founder</span>
                   </h5>
                 </div>
                 

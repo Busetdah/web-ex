@@ -52,7 +52,7 @@ const BlogArea = () => {
                         <div className="blog__author">
                           <i className="fal fa-user"></i>
                           <span>
-                            <a href="#">{blog.authorThree}</a>
+                            <a href=" ">{blog.authorThree}</a>
                           </span>
                         </div>
                         <div className="blog__catagory">
@@ -60,7 +60,7 @@ const BlogArea = () => {
                         </div>
                       </div>
                       <h5 className="blog__sm-title">
-                        <Link href="/blog-details">{blog.title}</Link>
+                        <a href=" ">{blog.title}</a>
                       </h5>
                     </div>
                    

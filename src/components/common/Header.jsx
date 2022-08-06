@@ -109,25 +109,8 @@ const Header = () => {
                         <a href="services" >Service</a>
                        
                       </li>
-                      <li className="has-dropdown">
-                        <Link href=" ">Download</Link>
-                        <ul className="sub-menu">
-                          <li>
-                            <Link href="/blog">Brochure</Link>
-                          </li>
-                          <li>
-                            <Link href="/blog-details">Pet Food</Link>
-                          </li>
-                          <li>
-                            <Link href="/blog-details">Aqua Feed</Link>
-                          </li>
-                          <li>
-                            <Link href="/blog-details">Premix</Link>
-                          </li>
-                          <li>
-                            <Link href="/blog-details">Grains, Soybean & Flat Storage</Link>
-                          </li>
-                        </ul>
+                      <li className=" ">
+                        <Link href="/download">Download</Link>
                       </li>
                       <li className=" ">
                         <Link href="/customer1">Customer</Link>

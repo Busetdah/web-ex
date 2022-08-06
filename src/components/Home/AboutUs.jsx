@@ -19,7 +19,7 @@ const AboutUs = () => {
               <div className="ab-left-content">
                 <div className="section__wrapper mb-30">
                   <h4 className="section__title">
-                    We can take your business to the next level.
+                    Our Company Delta Engineering.
                   </h4>
                   <div className="r-text">
                     <span>about us</span>
