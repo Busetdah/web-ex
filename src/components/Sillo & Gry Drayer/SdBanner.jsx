@@ -23,6 +23,16 @@ const SdBanner = () => {
       id: 4,
       img: "assets/img/banner/silo5.jpeg",
       subtitle: "Angency Eco Park",
+    }, 
+    {
+      id: 5,
+      img: "assets/img/banner/silo6.jpeg",
+      subtitle: "Angency Eco Park",
+    },
+    {
+      id: 6,
+      img: "assets/img/banner/silo7.jpeg",
+      subtitle: "Angency Eco Park",
     },
   ];
   return (
