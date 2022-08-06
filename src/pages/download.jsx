@@ -16,7 +16,7 @@ const Services = () => {
             <ServicesArea/>
             <PricingArea/>
             <BlogArea/>
-            <VideoArea/>
+           
             <> </>
             <Footer/>
         </main>
