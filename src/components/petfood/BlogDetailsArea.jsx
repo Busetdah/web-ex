@@ -19,16 +19,25 @@ const BlogDetailsArea = () => {
                   The global pet food industry is currently fast growing for asian market, pet food experts agree that this trend will continue into the near future. 
                   Pets are treated as family members, and the “Humanisation of Pets” results in very interesting trends in terms of nutrition and pet food manufacturing, of which the following are just a few examples:
                  </p>
+                  <ul>
+                    <li>
+                    Modern-day pet owners call themselves pet parents
+                    </li>
                   
-                  <p>*	modern-day pet owners call themselves pet parents</p>
-                  <p>*	they refer to their pets as companion animals</p>
-                  <p>*	they tend to adopt the same requirements we have for healthy human nutrition in pet food nutrition, and products such as grain-free; vegetarian; organic; low carb; high fresh meat inclusion; GMO-free; dental care products and pet treats are quickly becoming the trend</p>
-                  <p>*	these and other factors are driving the requirement for novelty ingredients of exceptional variety, quality and freshness to be used in Premium and Ultra Premium</p>
-                  <p>*	conventional ingredients will always be there for basic or mainstream nutrition</p>
-
-                  <p>
-                  However, novelty ingredients and in particular a very wide variety of fresh meat and ﬁsh ingredients became driving forces in ingredient selection and the subsequent choice of technology to process these ingredients in pet food.
-                  </p>
+                  
+                    <li>
+                    They refer to their pets as companion animals
+                    </li>
+                  
+                  
+                    <li>
+                    These and other factors are driving the requirement for novelty ingredients of exceptional variety, quality and freshness to be used in Premium and Ultra Premium
+                    </li>
+                    <li>
+                    Conventional ingredients will always be there for basic or mainstream nutrition
+                    </li>
+                    </ul>
+                  <p>However, novelty ingredients and in particular a very wide variety of fresh meat and ﬁsh ingredients became driving forces in ingredient selection and the subsequent choice of technology to process these ingredients in pet food</p>
                
                  
                   <div className="tp-blog__tag">

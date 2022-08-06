@@ -53,9 +53,10 @@ const ServicesArea = () => {
                       <h5 className="ser__title mb-10">
                         <Link href="/services-details">{service.title}</Link>
                       </h5>
+                      <p></p>
                       <p>
                         We help businesses elevate their value through custom
-                        software development
+                        software development 
                       </p>
                       <div className="ser__more-option mt-15">
                         <Link href="/services-details">
