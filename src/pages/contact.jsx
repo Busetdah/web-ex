@@ -12,7 +12,7 @@ const contact = () => {
         <main>
             <SEO pageTitle="Contact" />
             <Header/>
-            <Breadcrumb title="Contact" subtitle="About Contact" />
+            <Breadcrumb title=" " subtitle="Our Contact" />
             <ContactArea/>
             <ContactAreaTwo/>
             <ContactMap/>
