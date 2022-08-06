@@ -13,7 +13,7 @@ const BlogArea = () => {
             </div>
           </div>
           <h5 className="tp-blog__sm-title mb-20">
-                 Our customer
+                 Our Contact
                     </h5>
                   <p>
                   Our company specializes in providing solutions and meeting all customer needs.

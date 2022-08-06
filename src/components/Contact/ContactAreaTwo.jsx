@@ -3,6 +3,7 @@ import Link from "next/link";
 const ContactAreaTwo = () => {
   return (
     <>
+    
       <section className="contact__area-2">
         <div className="container">
           <div className="contact__form">
