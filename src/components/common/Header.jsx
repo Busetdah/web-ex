@@ -66,19 +66,19 @@ const Header = () => {
                         <Link href=" ">Product</Link>
                         <ul className="sub-menu">
                           <li>
-                            <a href="https://www.awila.de/">Awila</a>
+                            <a href="https://www.awila.de/" target="_blank" rel="noopener noreferrer">Awila</a>
                           </li>
                           <li>
-                            <a href="https://www.sukup.com/">Sukup</a>
+                            <a href="https://www.sukup.com/" target="_blank" rel="noopener noreferrer">Sukup</a>
                           </li>
                           <li>
-                            <a href="https://www.concetti.com/en-us/">Concetti</a>
+                            <a href="https://www.concetti.com/en-us/" target="_blank" rel="noopener noreferrer">Concetti</a>
                           </li>
                           <li>
-                            <a href="https://www.emka-incubators.com/en/">Emka Incubator</a>
+                            <a href="https://www.emka-incubators.com/en/" target="_blank" rel="noopener noreferrer">Emka Incubator</a>
                           </li>
                           <li>
-                            <a href="https://www.tedom.com/">Tedom</a>
+                            <a href="https://www.tedom.com/" target="_blank" rel="noopener noreferrer">Tedom</a>
                           </li>
                         </ul>
                       </li>
