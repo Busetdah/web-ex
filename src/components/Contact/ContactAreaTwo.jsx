@@ -11,10 +11,25 @@ const ContactAreaTwo = () => {
                 <div className="col-lg-6">
                   <div className="section__wrapper mb-45">
                     <h4 className="section__title">
-                      We can take your business to the next level.
-                    </h4>
+                    
+                 Our Contact
+                     </h4>
+                  <p>
+                  Our company specializes in providing solutions and meeting all customer needs.
+                  </p>
+                  <p>
+                   Do you have questions about our solutions, installations, equipment in general?
+                   </p>
+                  <p>
+                     Please use the contact form below to submit your detailed inquiry.
+                  </p>
+                 <p>
+                  Please contact us, our team will respond to your request as soon as possible.
+                  </p>
+                
+                  
                     <div className="r-text">
-                      <span>contact</span>
+                      <span> </span>
                     </div>
                   </div>
                 </div>
