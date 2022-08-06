@@ -42,7 +42,7 @@ const BlogArea = () => {
                     <div className="blog__item-2-image">
                       <div className="blog__item-2-image-inner w-img">
                         <Link href="/blog-details">
-                          <a><img src={`${download.imgTwo}`} alt="blog-img" /></a>
+                          <a><img src={`${blog.imgTwo}`} alt="blog-img" /></a>
                         </Link>
                       </div>
                       
@@ -52,7 +52,7 @@ const BlogArea = () => {
                         <div className="blog__author">
                           <i className="fal fa-user"></i>
                           <span>
-                            <a href=" ">{download.authorThree}</a>
+                            <a href=" ">{blog.authorThree}</a>
                           </span>
                         </div>
                         <div className="blog__catagory">
@@ -60,7 +60,7 @@ const BlogArea = () => {
                         </div>
                       </div>
                       <h5 className="blog__sm-title">
-                        <a href=" ">{download.title}</a>
+                        <a href=" ">{blog.title}</a>
                       </h5>
                     </div>
                    
