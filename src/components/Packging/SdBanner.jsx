@@ -11,17 +11,12 @@ const SdBanner = () => {
     },
     {
       id: 2,
-      img: "assets/img/banner/roboting2.jpg",
+      img: "assets/img/banner/packaging3.png",
       subtitle: "Denvar Eco Park",
     },
     {
       id: 3,
-      img: "assets/img/banner/roboting3.jpg",
-      subtitle: "Natural Eco Park",
-    },
-    {
-      id: 4,
-      img: "assets/img/banner/roboting4.jpg",
+      img: "assets/img/banner/packaging1.png",
       subtitle: "Angency Eco Park",
     },
   ];
