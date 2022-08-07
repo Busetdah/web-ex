@@ -92,6 +92,18 @@
             &.contact-icon-website::after{
                 content: "\f0ac";
             }
+            &.contact-icon-phone::after{
+                content: "\01F4DE";
+            }
+            &.contact-icon-flag::after{
+                content: "\2691";
+            }
+            &.contact-icon-office::after{
+                content: "\01F3E2";
+            }
+            &.contact-icon-city::after{
+                content: "\01F3D9 \FE0F";
+            }
             & input  {
                 width: 100%;
                 height: 60px;
