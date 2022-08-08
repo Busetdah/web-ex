@@ -26,6 +26,9 @@ const BrandArea = () => {
     {
       id: 6,
       img: "assets/img/brand/brand6.png",
+    },  {
+      id: 7,
+      img: "assets/img/brand/brand7.png",
     },
   ];
   return (
@@ -63,8 +66,11 @@ const BrandArea = () => {
                         slidesPerView: 5,
                      },
                      1400: {
-                        slidesPerView: 5,
-                        }
+                        slidesPerView: 6,
+                        },
+                        1400: {
+                          slidesPerView: 7,
+                          }
                    }}
                 >
                   {brandImg.map((brand) => {
