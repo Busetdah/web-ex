@@ -21,7 +21,17 @@ const SdBanner = () => {
     },
     {
       id: 4,
-      img: "assets/img/banner/plc4.jpeg",
+      img: "assets/img/banner/automation.jpeg",
+      subtitle: "Angency Eco Park",
+    },
+    {
+      id: 5,
+      img: "assets/img/banner/automation2.jpeg",
+      subtitle: "Angency Eco Park",
+    },
+    {
+      id: 6,
+      img: "assets/img/banner/automation3.jpeg",
       subtitle: "Angency Eco Park",
     },
   ];
@@ -54,7 +64,11 @@ const SdBanner = () => {
                         <div className="col-xl-3 banner-slide-height d-none d-xl-block">
                           <div className="slide-border"></div>
                         </div>
-                       
+                        <div className="col-xl-3 banner-slide-height">
+                          <div className="slide-border"></div>
+                          <span className="sd-meta">
+                          </span>
+                          </div>
                         <div className="col-xl-3 banner-slide-height d-none d-xl-block">
                           <div className="slide-border"></div>
                         </div>

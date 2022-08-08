@@ -3,6 +3,7 @@ import Link from "next/link";
 const ContactAreaTwo = () => {
   return (
     <>
+    
       <section className="contact__area-2">
         <div className="container">
           <div className="contact__form">
@@ -37,7 +38,7 @@ const ContactAreaTwo = () => {
                   <form id="contact-form" action="mail.php" method="POST">
                     <div className="row">
                       <div className="col-lg-6">
-                        <div className="contact-filed mb-20">
+                        <div className="contact-filed contact-icon-office mb-20">
                           <input
                             type="text"
                             name="company name"
@@ -55,7 +56,7 @@ const ContactAreaTwo = () => {
                         </div>
                       </div>
                       <div className="col-lg-6">
-                        <div className="contact-filed mb-20">
+                        <div className="contact-filed contact-icon-city mb-20">
                           <input
                             type="text"
                             name="city"
@@ -64,7 +65,7 @@ const ContactAreaTwo = () => {
                         </div>
                       </div>
                       <div className="col-lg-6">
-                        <div className="contact-filed mb-20">
+                        <div className="contact-filed contact-icon-flag mb-20">
                           <input
                             type="text"
                             name="country"
@@ -73,7 +74,7 @@ const ContactAreaTwo = () => {
                         </div>
                       </div>
                       <div className="col-lg-6">
-                        <div className="contact-filed mb-20">
+                        <div className="contact-filed contact-icon-phone mb-20">
                           <input
                             type="number"
                             name="phone"
@@ -99,7 +100,7 @@ const ContactAreaTwo = () => {
                       ></textarea>
                        <input type="file" accept="image/png, image/jpeg, image/jpg" name="menu_image" className="box"></input>
                       <div className="col-lg-6">
-                        <div className="contact-filed contact-icon-mail mb-20">
+                        <div className="contact-filed contact-icon-product mb-20">
                           
                           <input
                             email="text"

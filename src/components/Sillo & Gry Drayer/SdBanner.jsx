@@ -64,7 +64,11 @@ const SdBanner = () => {
                         <div className="col-xl-3 banner-slide-height d-none d-xl-block">
                           <div className="slide-border"></div>
                         </div>
-                       
+                        <div className="col-xl-3 banner-slide-height">
+                          <div className="slide-border"></div>
+                          <span className="sd-meta">
+                          </span>
+                          </div>  
                         <div className="col-xl-3 banner-slide-height d-none d-xl-block">
                           <div className="slide-border"></div>
                         </div>

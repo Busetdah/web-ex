@@ -9,10 +9,10 @@ const AboutArea = () => {
             <div className="col-xl-6 col-lg-6">
               <div className="about__image about__image-2">
                 <div className="about__image-big">
-                  <img src="assets/img/about/roboting7.png" alt="" />
+                  <img src="assets/img/about/semolina.jpg" alt="" />
                 </div>
                 <div className="about__image-small about__image-small-2">
-                  <img src="assets/img/about/roboting4.jpg" alt="" />
+                  <img src="assets/img/about/fertiliser.jpg" alt="" />
                 </div>
               </div>
             </div>
