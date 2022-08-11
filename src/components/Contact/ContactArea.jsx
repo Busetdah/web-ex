@@ -46,10 +46,10 @@ const ContactArea = () => {
                 <h5 className="contact__title mb-25">Phone Number</h5>
                 <div className="contact__text">
                   <p>
-                    <a href="tel:+78923656825">789. 236. 568. 25</a>
+                    <a href="tel: +62 8133040975"> +62 8133040975</a>
                   </p>
                   <p>
-                    <a href="tel:+7892516563">789 (125) 165 63</a>
+                    <a href="tel: +62 82141928597">+62 82141928597</a>
                   </p>
                 </div>
                 <div className="contact__button mt-30">
@@ -68,7 +68,7 @@ const ContactArea = () => {
                 <div className="contact__text">
                   <p>
                     <a
-                      href="https://goo.gl/maps/ZW5MZEgAG4zRJc6B7"
+                      href="#"
                       target="blank"
                     >
                       15 E Joseph St, Moonachie, <br /> NJ 07074, USA
@@ -77,7 +77,7 @@ const ContactArea = () => {
                 </div>
                 <div className="contact__button mt-30">
                   <a
-                    href="https://goo.gl/maps/ZW5MZEgAG4zRJc6B7"
+                    href="#"
                     target="blank"
                     className="tp-btn-white"
                   >
@@ -99,7 +99,7 @@ const ContactArea = () => {
                   <a href="#">
                     <i className="fa-brands fa-twitter"></i>
                   </a>
-                  <a href="https://www.instagram.com/rakhaabr_/ ">
+                  <a href="#">
                     <i className="fa-brands fa-instagram"></i>
                   </a>
                   <a href="#">
