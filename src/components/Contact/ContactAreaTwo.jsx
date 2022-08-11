@@ -12,7 +12,7 @@ const ContactAreaTwo = () => {
                 <div className="col-lg-6">
                   <div className="section__wrapper mb-45">
                     <h4 className="section__title"> 
-                 Our Contact
+                 
                      </h4>
                 
                   
