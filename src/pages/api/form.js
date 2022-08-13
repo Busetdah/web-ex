@@ -13,7 +13,7 @@ export default function (req, res) {
     })
     const mailData = {
       from: 'contact.me@aprianto-wpj.codes',
-      to: 'apriantowpj@gmail.com',
+      to: 'rakamuhammadberani@gmail.com',
       subject: `Form submitted by ${body.name}`,
       text: " Message :" + body.message + " | Sent from: " + body.email,
       html: `<div>${body.message}</div><p>Sent from:
