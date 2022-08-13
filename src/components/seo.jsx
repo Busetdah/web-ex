@@ -14,7 +14,7 @@ const SEO = ({ pageTitle,font }) => (
         content="width=device-width, initial-scale=1, shrink-to-fit=no"
       />
       <link href={font} rel="stylesheet" />
-      <link rel="icon" href="/favicon.ico" />
+      <link rel="icon" href="/delta.ico" />
     </Head>
   </>
 );
