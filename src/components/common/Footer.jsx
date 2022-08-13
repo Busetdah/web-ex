@@ -54,10 +54,10 @@ const Footer = () => {
                     <div className="footer__links">
                       <ul>
                         <li>
-                          <Link href="contact">contact</Link>
+                          <Link href="contact">Contact</Link>
                         </li>
                         <li>
-                          <Link href="customer1">customer</Link>
+                          <Link href="customer1">Customer</Link>
                         </li>
                         <li>
                           <Link href="Incubator">Incubator</Link>
