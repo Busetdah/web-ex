@@ -1,7 +1,60 @@
 import Link from "next/link";
+import React from 'react';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
-const ContactAreaTwo = () => {
-  return (
+const ContactAreaTwo = (event) => {
+    // Handles the submit event on form submit.
+    const handleSubmit = async (event) => {
+      // Stop the form from submitting and refreshing the page.
+      event.preventDefault()
+  
+      // Get data from the form.
+      const data = {
+        company_name: event.target.company_name.value,
+        name: event.target.name.value,
+        city: event.target.city.value,
+        country: event.target.country.value,
+        phone: event.target.phone.value,
+        email: event.target.email.value,
+        message: event.target.message.value,
+        product: event.target.product.value,
+      }
+  
+      // Send the data to the server in JSON format.
+      const JSONdata = JSON.stringify(data)
+  
+      // API endpoint where we send form data.
+      const endpoint = '/api/form'
+  
+      // Form the request for sending data to the server.
+      const options = {
+        // The method is POST because we are sending data.
+        method: 'POST',
+        // Tell the server we're sending JSON.
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        // Body of the request is the JSON data we created above.
+        body: JSONdata,
+      }
+      // Send the form data to our forms API on Vercel and get a response.
+      const response = await fetch(endpoint, options)
+  
+      // Get the response data from server as JSON.
+      // If server returns the name submitted, that means the form works.
+      const result = await response.json()
+      
+      const optionstoast = {
+        position: toast.POSITION.BOTTOM_RIGHT,
+    };
+
+      if(result = "success"){
+      toast.success("Contact form send successfully !", optionstoast);
+      }
+    }
+
+    return (
     <>
     
       <section className="contact__area-2">
@@ -22,14 +75,15 @@ const ContactAreaTwo = () => {
                   </div>
                 </div>
                 <div className="col-xl-12">
-                  <form id="contact-form" action="mail.php" method="POST">
+                  <form id="contact-form" onSubmit={handleSubmit}>
                     <div className="row">
                       <div className="col-lg-6">
                         <div className="contact-filed contact-icon-office mb-20">
                           <input
                             type="text"
-                            name="company name"
+                            name="company_name"
                             placeholder="Company Name"
+                            required={true}
                           />
                         </div>
                       </div>
@@ -39,6 +93,7 @@ const ContactAreaTwo = () => {
                             type="text"
                             name="name"
                             placeholder="Name"
+                            required={true}
                           />
                         </div>
                       </div>
@@ -48,6 +103,7 @@ const ContactAreaTwo = () => {
                             type="text"
                             name="city"
                             placeholder="City"
+                            required={true}
                           />
                         </div>
                       </div>
@@ -57,6 +113,7 @@ const ContactAreaTwo = () => {
                             type="text"
                             name="country"
                             placeholder="Country"
+                            required={true}
                           />
                         </div>
                       </div>
@@ -66,6 +123,7 @@ const ContactAreaTwo = () => {
                             type="number"
                             name="phone"
                             placeholder="Phone Number"
+                            required={true}
                           />
                         </div>
                       </div>
@@ -73,9 +131,10 @@ const ContactAreaTwo = () => {
                         <div className="contact-filed contact-icon-mail mb-20">
                           
                           <input
-                            email="text"
+                            type="email"
                             name="email"
                             placeholder="Email"
+                            required={true}
                           />
                         </div>
                       </div>
@@ -84,8 +143,9 @@ const ContactAreaTwo = () => {
                       <textarea
                         placeholder="Message"
                         name="message"
+                        required={true}
                       ></textarea>
-                       <input type="file" accept="image/png, image/jpeg, image/jpg" name="menu_image" className="box"></input>
+                       <input type="file" accept="image/png, image/jpeg, image/jpg" name="menu_image" className="box" required={true}></input>
                       <div className="col-lg-6">
                         <div className="contact-filed contact-icon-product mb-20">
                           
@@ -93,6 +153,7 @@ const ContactAreaTwo = () => {
                             email="text"
                             name="product"
                             placeholder="Product"
+                            required={true}
                           />
                         </div>
                       </div>
@@ -103,6 +164,8 @@ const ContactAreaTwo = () => {
                         className="e-check-input"
                         type="checkbox"
                         id="e-agree"
+                        required={true}
+                        title="You must accept Terms and Conditions"
                       />
                       <label className="e-check-label" htmlFor="e-agree">
                         I agree to the
@@ -113,6 +176,8 @@ const ContactAreaTwo = () => {
                       <button className="tp-btn" type="submit">
                         Submit Request
                       </button>
+                      <ToastContainer
+                      theme="colored" />
                     </div>
                     <p className="ajax-response"></p>
                   </form>
