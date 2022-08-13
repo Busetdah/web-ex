@@ -104,7 +104,7 @@ const Footer = () => {
                   <h5 className="footer__widget-title">Connect with us</h5>
                   <div className="footer__widget-content">
                     <p className="ft-text mb-35">
-                      Subscribe to out newsletter today to receive updates on
+                      Subscribe to our newsletter today to receive updates on
                       the latest news, releases and special offers. We respect
                       your privacy. Your information is safe.
                     </p>
