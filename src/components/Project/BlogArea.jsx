@@ -29,12 +29,12 @@ const BlogArea = () => {
                   The owners have started to think about the future feed mill industry, having very clear goals about what they want to achieve with their new feed mill.
                   The factory built today is a modern feed mill integrated with new industrial technology and a high level of automation is applied to achieve the best in:
                   </p>
-                	<ul>
-                    <li> Flexibility and efficiency</li>
-                    <li> Cleanliness level</li>
-                    <li> Energy efficiency</li>
-                    <li> Feed mill automation</li>
-                  </ul>
+                
+                  <p>&#x2726; Flexibility and efficiency</p>
+                  <p>&#x2726; Cleanliness level</p>
+                  <p>&#x2726; Energy efficiency</p>
+                  <p>&#x2726; Feed mill automation</p>
+                  
                  
           <div className="row mt-40">
             {BlogData.slice(0, 5).map((blog) => {

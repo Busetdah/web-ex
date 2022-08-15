@@ -28,13 +28,14 @@ const AboutArea = () => {
                   We design and build installations to meet specific customer needs, according to the latest standards of safety, quality, and reliability. The best solutions are the result of intensive cooperation with our partners and clients.</p>
 <p>This is a challenge not only for the food industry but also definitely for the feed industry. The better the fodder for the species that give us milk, cheese and meat, the better the food on the table. It's that simple. But this is easier said than done. In a time of rising energy prices, resource shortages, emission targets and changing laws, the compound feed industry is being challenged to become more sustainable. Simultaneously the feed mill manager must meet his goal of maximizing sales or optimizing feed for meat, milk or egg production. Experts predict dramatic changes to the world's feed mills over the next 10 years. And how true this is, we don't have to wait 10 years; it has started Especially Europe for now in asia.</p>
 <p>The owners have started to think about the future feed mill industry, having very clear goals about what they want to achieve with their new feed mill.</p>
-<p>The factory built today is a modern feed mill integrated with new industrial technology and a high level of automation is applied to achieve the best in:
-<p>
-	Flexibility and efficiency</p>
-<p>	Cleanliness level</p>
-<p>	Energy efficiency</p>
-<p>	Feed mill automation</p>
+<p>The factory built today is a modern feed mill integrated with new industrial technology and a high level of automation is applied to achieve the best in:</p>
 
+<p>&#x2726;	Flexibility and efficiency</p>
+<p>&#x2726;	Cleanliness level</p>
+<p>&#x2726;	Energy efficiency</p>
+<p>&#x2726;	Feed mill automation</p>
+
+<p>
 Hygienic production
 Not only are they able to provide customized feed for each farmer, everything is done in a very hygienic environment.
 
