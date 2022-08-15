@@ -53,6 +53,7 @@ On this page, you will find our brochures.
                         </div>
                         <div className="blog__catagory">
                           <span>Download</span>
+                          
                         </div>
                       </div>
                       <h5 className="blog__sm-title">

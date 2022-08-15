@@ -6,6 +6,7 @@ const donwloadData = [
         imgTwo:'assets/img/blog/awila2.png',
         date:'Feb 23, 2022',
         title:'Awila Product',
+        
         titleTwo:'Both the act of teaching knowledge to others and the act of kind.',
         author:'IQBAL',
         authorThree:'Brochure',

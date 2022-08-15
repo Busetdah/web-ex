@@ -153,36 +153,6 @@ const BlogRightSide = () => {
           </div>
           <div className="blog-sidebar__widget mb-55">
             <div className="blog-sidebar__widget-head mb-30">
-              <h3 className="blog-sidebar__widget-title">Category</h3>
-            </div>
-            <div className="blog-sidebar__widget-content">
-              <ul>
-                <li>
-                  <Link href="/blog">Home</Link>
-                </li>
-                <li>
-                  <Link href="/blog">Installation (5)</Link>
-                </li>
-                <li>
-                  <Link href="/blog">Product (4)</Link>
-                </li>
-                <li>
-                  <Link href="/blog">Project (5)</Link>
-                </li>
-                <li>
-                  <Link href="/blog">Service (5)</Link>
-                </li>
-                <li>
-                  <Link href="/blog">Downloads (5)</Link>
-                </li>
-                <li>
-                  <Link href="/blog">Contact (5)</Link>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <div className="blog-sidebar__widget mb-55">
-            <div className="blog-sidebar__widget-head mb-30">
               <h3 className="blog-sidebar__widget-title">Other Keywords</h3>
             </div>
             <div className="blog-sidebar__widget-content">
