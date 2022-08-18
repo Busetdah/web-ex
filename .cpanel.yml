@@ -1,5 +1,5 @@
 ---
 deployment:
 tasks:
-- export DEPLOYPATH=/home/usercpanel/public_html/git
+- export DEPLOYPATH=/home/deltaen2/repositories/demo-dustrilox 
 - /bin/cp -r * $DEPLOYPATH
