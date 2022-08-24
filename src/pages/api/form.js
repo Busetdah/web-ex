@@ -21,6 +21,6 @@ export default function (req, res) {
       <p>Email : ${body.email}</p><div>${body.message}</div><p>Sent from:
       ${body.email}</p><p>Product : ${body.product}</p>`
     }
-    transporter.sendMail(mailOptions)
+    transporter.sendMail(mailData)
   }
   
