@@ -26,10 +26,20 @@ const BrandArea = () => {
     {
       id: 6,
       img: "assets/img/brand/brand6.png",
-    },  {
+    },  
+    {
       id: 7,
       img: "assets/img/brand/brand7.png",
     },
+    {
+      id: 8,
+      img: "assets/img/brand/brand 8.png",
+    },
+    {
+      id: 9,
+      img: "assets/img/brand/brand 9.png",
+    },
+
   ];
   return (
     <>
