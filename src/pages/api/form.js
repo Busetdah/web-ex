@@ -13,13 +13,13 @@ export default function (req, res) {
     })
     const mailData = {
       from: 'contact.me@aprianto-wpj.codes',
-      to: 'rakamuhammadberani@gmail.com',
+      to: 'apriantowpj@gmail.com',
       subject: `Form submitted by ${body.name}`,
       text: " Message :" + body.message + " | Sent from: " + body.email,
       html: `<p>Company Name : ${body.company_name}</p><p>Name : ${body.name}</p>
       <p>City : ${body.city}</p><p>Country : ${body.country}</p><p>Phone Number : ${body.phone}</p> 
       <p>Email : ${body.email}</p><div>${body.message}</div><p>Sent from:
-      ${body.email}</p><p>File : ${body.image}</p><p>Product : ${body.product}</p>`
+      ${body.email}</p><p>Product : ${body.product}</p>`
     }
     transporter.sendMail(mailData, function (err, info) {
       if(err)
