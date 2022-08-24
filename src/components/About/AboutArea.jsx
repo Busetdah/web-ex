@@ -84,16 +84,15 @@ const AboutArea = () => {
 <p>The best solutions are the result of close collaboration with our customers, from the initial stages to the commissioning and handover of a successful project. </p>
 <p>Thanks to its expert knowledge, acquired over decades of existence, we are the ideal partner for your project implementation. </p>
 <p>Our expertise lies in; Design, supply ,engineering, production and installation of machinery, and complete systems installations industry such as:
-<p>
-- Feed mills plant</p>
-<p>- Premix plant, mash feed</p>
-<p>- Aqua Feed, Pet food</p>
-<p>- Material and grains handling, Flat Storage warehouse</p>
-<p>- Silo storage , and grains drying</p>
-<p>- Robotic Palletizing</p>
-<p>- Hatchery Incubator systems</p>
-<p>- Slaugthering house</p>
-<p>- Egg grading, packing, processing</p>
+<p>&#x2726;  Feed mills plant</p>
+<p>&#x2726; Premix plant, mash feed</p>
+<p>&#x2726; Aqua Feed, Pet food</p>
+<p>&#x2726; Material and grains handling, Flat Storage warehouse</p>
+<p>&#x2726; Silo storage , and grains drying</p>
+<p>&#x2726; Robotic Palletizing</p>
+<p>&#x2726; Hatchery Incubator systems</p>
+<p>&#x2726; Slaugthering house</p>
+<p>&#x2726; Egg grading, packing, processing</p>
 </p>
                 
                 
