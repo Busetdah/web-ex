@@ -21,12 +21,6 @@ export default function (req, res) {
       <p>Email : ${body.email}</p><div>${body.message}</div><p>Sent from:
       ${body.email}</p><p>Product : ${body.product}</p>`
     }
-    transporter.sendMail(mailData, function (err, info) {
-      if(err)
-        console.log(err)
-      else
-        console.log(info)
-    })
-    return res.status(200).send({data: 'success'})
+    transporter.sendMail(mailOptions)
   }
   
