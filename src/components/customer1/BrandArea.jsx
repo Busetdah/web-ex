@@ -39,6 +39,10 @@ const BrandArea = () => {
       id: 9,
       img: "assets/img/brand/brand 9.png",
     },
+    {
+      id: 10,
+      img: "assets/img/brand/brand 10.png",
+    },
 
   ];
   return (
