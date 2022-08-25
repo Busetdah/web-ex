@@ -20,17 +20,13 @@ const ContactArea = () => {
                 <h5 className="contact__title mb-25">Email Address</h5>
                 <div className="contact__text">
                   <p>
-                    <a href="mailto:info@webmail.com">info@webmail.com</a>
+                    <a href="mailto:info@webmail.com">contact@deltaenginering.com</a>
                   </p>
-                  <p>
-                    <a href="mailto:jobs@websitehints.com">
-                      jobs@websitehints.com
-                    </a>
-                  </p>
+                
                 </div>
                 <div className="contact__button mt-30">
                   <a
-                    href="mailto:jobs@websitehints.com"
+                    href="mailto:contact@deltaenginering.com"
                     className="tp-btn-white"
                   >
                     Email Us <i className="fa-light fa-arrow-right-long"></i>
@@ -71,7 +67,7 @@ const ContactArea = () => {
                       href="#"
                       target="blank"
                     >
-                      15 E Joseph St, Moonachie, <br /> NJ 07074, USA
+                     Main Road Sidoarjo - Krian ,<br/> Puri Indah 61271  , <br /> East Java, Indonesia
                     </a>
                   </p>
                 </div>

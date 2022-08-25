@@ -109,7 +109,7 @@ const Footer = () => {
                       your privacy. Your information is safe.
                     </p>
                     <div className="footer__subscribe-form p-relative mb-30">
-                      <form action="#">
+                      <form action="mailto:contact@deltaenginering.com">
                         <input type="email" placeholder="Email Address" />
                         <button type="submit" className="s-button">
                           Subscribe
