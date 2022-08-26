@@ -34,8 +34,51 @@ const BlogArea = () => {
                   <p>&#x2726; Cleanliness level</p>
                   <p>&#x2726; Energy efficiency</p>
                   <p>&#x2726; Feed mill automation</p>
-                  
-                 
+                  <p>Hygienic production
+Not only are they able to provide customized feed for each farmer, everything is done in a very hygienic environment.
+</p>
+<p>Clean rooms for steam conditioner, batch mixer, pellet mills, finished feeds, and auto packaging robotic palletizing</p>
+<p>Energy efficiency is an important feature of the whole project.</p>
+<p>Feed factory automation
+The entire production process is automated to optimize recipe changes, production times, and the overall performance of the Feed mill thereby enabling  to react more quickly to market developments and customer needs.
+</p> 
+<p>It only takes 2 operators to track all stages of the Feed Mill production process.
+Operators can make adjustments on the spot, using just a tablet.
+All silos, bins and mixers are equipped with weighing facilities, to see at any time raw materials or finished products are being processed, as well as monitor actual stock levels.
+Automatic sampling of finished products is possible in combination with a fully automatic sample. 
+</p>       
+<p>Complete packaging line robotic palletizing, hygienic, ergonomic and easy to clean, the all-new , an automatic filling and closing machine for bags at high speeds, was created to ensure the highest product quality in modern food packaging.</p>
+<p>Following the latest international machinery hygiene guidelines. From avoiding product retention, using specific contact-part materials and providing convenient access for cleaning, everything is geared towards safeguarding the final product.</p>
+<p>The fed integrated scale is completely accessible using quick release panels for more thorough cleaning.
+Have provided many innovative installations now with new technology, 
+</p>          
+<p>&#x2726; Efficient high speed bagging operation</p>
+<p>&#x2726; Bag mouth tightly clamped on the filling spout</p>
+<p>&#x2726; NO dust, clean and SAFE environment</p>
+<p>&#x2726; NO spillage, no clean-up required</p>
+<p>&#x2726; Accurate weighing providing BETTER accuracy for each bag</p>
+<p>&#x2726; Compact bag, great for pallet stack presentation and stability. SAFE and SECURE
+This is the hope of the future industry.
+</p>
+<p>Hatchery project 
+Our team of engineers and technical experts will supply each project with the appropriate design. Each project is looked at carefully and designed to the customers’ specific requirements.
+</p>
+<p>A lay-out with all electical, water and high pressure lines is drawn up for the customer. These lay-outs are the basis for the architectural plans.</p>
+<p>Hatchery Equipment prides itself in being able to run a project as a turn-key delivery from sales through supply to delivery of the fully equipped turn-key hatchery.</p>
+<p>Hatchery Projects require at least an alaysis of:</p>
+<p>&#x2726; Size and space definition</p>      
+<p>&#x2726; Internal egg and chick flow</p>    
+<p>&#x2726; Storage space</p>    
+<p>&#x2726; Staff and hygiene needs (canteen, showers, office)</p>    
+<p>&#x2726; Level of automation</p>    
+<p>&#x2726; Technical requirements</p>               
+<p>&#x2726; Wall protection and flooring</p>    
+<p>&#x2726; Electrical, water and air-supply</p>
+<p>&#x2726; Waste management</p>   
+<p>&#x2726; Storage needs</p>
+<p>&#x2726; Supply and dispatch</p>
+
+
           <div className="row mt-40">
             {BlogData.slice(0, 5).map((blog) => {
               return (
