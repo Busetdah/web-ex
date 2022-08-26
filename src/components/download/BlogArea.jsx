@@ -37,9 +37,9 @@ On this page, you will find our brochures.
                   <div className="blog__item-2 blog__item-2-df mb-40">
                     <div className="blog__item-2-image">
                       <div className="blog__item-2-image-inner w-img">
-                        <a href={`${blog.link}`} target="_blank" rel="noreferrer">
+                        <Link href={`${blog.link}`} target="_blank" rel="noopener noreferrer">
                           <a><img src={`${blog.imgTwo}`} alt="blog-img" /></a>
-                        </a>
+                        </Link>
                       </div>
                       
                     </div>
