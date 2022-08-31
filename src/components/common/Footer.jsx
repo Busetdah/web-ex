@@ -104,13 +104,11 @@ const Footer = () => {
                   <h5 className="footer__widget-title">Connect with us</h5>
                   <div className="footer__widget-content">
                     <p className="ft-text mb-35">
-                      Subscribe to our newsletter today to receive updates on
-                      the latest news, releases and special offers. We respect
-                      your privacy. Your information is safe.
+                      Subscribe to our newsletter today by click button below to receive updates on
+                      the latest news, releases and special offers.
                     </p>
                     <div className="footer__subscribe-form p-relative mb-30">
-                      <form action="mailto:contact@deltaenginering.com">
-                        <input type="email" placeholder="Email Address" />
+                      <form action="https://docs.google.com/forms/d/1NLC0o31YAVPeTt-ASS0ZDK48CylhOgGmJAy0kVLHKEU/edit">
                         <button type="submit" className="s-button">
                           Subscribe
                         </button>
