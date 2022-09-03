@@ -31,16 +31,16 @@ const Footer = () => {
                           <Link href="isntallation">Installation</Link>
                         </li>
                         <li>
-                          <Link href="/about">Product</Link>
+                          <Link href="https://www.awila.de/" target="_blank" rel="noopener noreferrer">Product</Link>
                         </li>
                         <li>
-                          <Link href="/blog">Process</Link>
+                          <Link href="compound-feed">Process</Link>
                         </li>
                         <li>
                           <Link href="Project">Project</Link>
                         </li>
                         <li>
-                          <Link href="/blog">Download</Link>
+                          <Link href="download">Download</Link>
                         </li>
                       </ul>
                     </div>
