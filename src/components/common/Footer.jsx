@@ -154,6 +154,7 @@ const Footer = () => {
                     <Link href="/faq">Faq</Link>
                     <Link href="/contact">Careers </Link>
                     <Link href="/contact">Refund Policy</Link>
+                    <Link href="/id">Indonesia</Link>
                   </div>
                 </div>
               </div>
