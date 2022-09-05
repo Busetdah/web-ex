@@ -118,7 +118,7 @@ const {show,handleClose,handleShow} = useGlobalContext();
                         </p>
                         <div className="tp-blog-btn mt-25">
                           <Link href="/blog-details">
-                            <a className="tp-btn">Read More</a>                            
+                            <a className="tp-btn">Baca lebih banya</a>                            
                           </Link>
                         </div>
                       </div>

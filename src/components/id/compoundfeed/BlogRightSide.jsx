@@ -8,7 +8,7 @@ const BlogRightSide = () => {
           <div className="blog-sidebar__widget mb-55 d-none">
             <div className="blog-sidebar__widget-content">
               <div className="blog-sidebar__widget-head mb-30">
-                <h3 className="blog-sidebar__widget-title">About me</h3>
+                <h3 className="blog-sidebar__widget-title">Tentang Kami</h3>
               </div>
               <div className="blog-sidebar__about">
                 <div className="featured__author text-center">
@@ -48,11 +48,11 @@ const BlogRightSide = () => {
           <div className="blog-sidebar__widget mb-55">
             <div className="blog-sidebar__widget-content">
               <div className="blog-sidebar__widget-head mb-30">
-                <h3 className="blog-sidebar__widget-title">Search Here</h3>
+                <h3 className="blog-sidebar__widget-title">Cari Disini</h3>
               </div>
               <div className="blog-sidebar__search p-relative">
                 <form action="#">
-                  <input type="text" placeholder="Search your keyword..." />
+                  <input type="text" placeholder="Cari Kata Kunci Anda Disini..." />
                   <button type="submit">
                     <i className="fa-light fa-magnifying-glass"></i>
                   </button>
@@ -62,7 +62,7 @@ const BlogRightSide = () => {
           </div>
           <div className="blog-sidebar__widget mb-55">
             <div className="blog-sidebar__widget-head mb-30">
-              <h3 className="blog-sidebar__widget-title">Other Process</h3>
+              <h3 className="blog-sidebar__widget-title">Proses lainnya</h3>
             </div>
             <div className="blog-sidebar__widget-content">
               <div className="rc__post-wrapper">
@@ -78,11 +78,11 @@ const BlogRightSide = () => {
                   <div className="rc__content">
                     <h6 className="rc__title">
                       
-                        Pet Food
+                        Pakan Hewan
                       
                     </h6>
                     <div className="sr-button">
-                        <a href="pet-food" target="_blank">Read More</a>
+                        <a href="pet-food" target="_blank">Baca lebih banyak</a>
                       </div>
                   </div>
                 </div>
@@ -97,11 +97,11 @@ const BlogRightSide = () => {
                   <div className="rc__content">
                     <h6 className="rc__title">
                       
-                        Aqua Food
+                        Pakan Ikan
                       
                     </h6>
                     <div className="sr-button">
-                        <a href="aqua-food" target="_blank">Read More</a>
+                        <a href="aqua-food" target="_blank">Baca lebih banyak</a>
                       </div>
                   </div>
                 </div>
@@ -116,11 +116,11 @@ const BlogRightSide = () => {
                   <div className="rc__content">
                     <h6 className="rc__title">
                       
-                       Premix & Mash Feed
+                    Pakan Premix & Mash
                     
                     </h6>
                     <div className="sr-button">
-                        <a href="pre-mix" target="_blank">Read More</a>
+                        <a href="pre-mix" target="_blank">Baca lebih banyak</a>
                       </div>
                   </div>
                 </div>
@@ -134,14 +134,13 @@ const BlogRightSide = () => {
                   </div>
                   <div className="rc__content">
                     <h6 className="rc__title">
-                      
-                       Grain, Soybean & Flat Storage 
+                    Penyimpanan Gandum, Kedelai & Penyimpanan Serbaguna
                       
                     </h6>
                     <div className="rc__meta">
                       <span>
                       <div className="sr-button">
-                        <a href="flat-storage" target="_blank">Read More</a>
+                        <a href="flat-storage" target="_blank">Baca lebih banyak</a>
                       </div>
                       </span>
                     </div>
@@ -153,18 +152,18 @@ const BlogRightSide = () => {
           </div>
           <div className="blog-sidebar__widget mb-55">
             <div className="blog-sidebar__widget-head mb-30">
-              <h3 className="blog-sidebar__widget-title">Other Keywords</h3>
+              <h3 className="blog-sidebar__widget-title">Pos Tag Lainnya</h3>
             </div>
             <div className="blog-sidebar__widget-content">
               <div className="tagcloud">
-                <a href="#">Aqua</a>
-                <a href="#">Fish</a>
+                <a href="#">Air</a>
+                <a href="#">Ikan</a>
                 <a href="#">Premix</a>
-                <a href="#">Concentrate</a>
-                <a href="#">Mash Feed</a>
-                <a href="#">Soybean</a>
-                <a href="#">grain</a>
-                <a href="#">Flat Storage</a>
+                <a href="#">Konsentrat</a>
+                <a href="#">Pakan Mash</a>
+                <a href="#">Kedelai</a>
+                <a href="#">Bulir</a>
+                <a href="#">Gudang Serbaguna</a>
               </div>
             </div>
           </div>

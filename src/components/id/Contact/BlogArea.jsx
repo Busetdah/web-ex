@@ -13,19 +13,19 @@ const BlogArea = () => {
             </div>
           </div>
           <h5 className="tp-blog__sm-title mb-20">
-                 Our Contact
+          Kontak kami
                     </h5>
                   <p>
-                  Our company specializes in providing solutions and meeting all customer needs.
+                  Perusahaan kami mengkhususkan diri dalam memberikan solusi dan memenuhi semua kebutuhan pelanggan.
                   </p>
                   <p>
-                   Do you have questions about our solutions, installations, equipment in general?
+                  Apakah Anda memiliki pertanyaan tentang solusi, instalasi, peralatan kami secara umum?
                    </p>
                   <p>
-                     Please use the contact form below to submit your detailed inquiry.
+                  Silakan gunakan formulir kontak di bawah ini untuk mengirimkan pertanyaan terperinci Anda.
                   </p>
                  <p>
-                  Please contact us, our team will respond to your request as soon as possible.
+                 Silahkan hubungi kami, tim kami akan merespon permintaan Anda sesegera mungkin.
                   </p>
                 
         

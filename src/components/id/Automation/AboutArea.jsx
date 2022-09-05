@@ -21,25 +21,24 @@ const AboutArea = () => {
                 <div className="about__info pb-20">
                   <div className="section-2__wrapper mb-30">
                     <h5 className="section__title-sm">
-                      PLC & Scada  System Installations
+                      PLC & Scada  Sistem Instalasi
                     </h5>
                   </div>
                   <p>
-                  Software engineering requires insight into your entire process; into knowledge of your application and even your industry. Our teams is specialised in control systems and automation for the feed mill, prmix, flat storage, Grains drying and material handling industry.</p>
-<p>The automation of the plant will cover the intake of the raw materials, weighing, grinding, pelleting and bulk loading in the trucks.</p>
-<p>PLC control over sensors and actuators such as valves, motors, push buttons.
-SCADA (Supervisory Control And Data Acquisition) monitoring, alarm and operation
-Batch control over various parts in the production line(s)
-Functionalities such as recipe control, stock control, transport routing and more.
-All this operator functionality is in reach within a mouse click from one single process running on the server. Operators don’t have to swap programs to perform various tasks.</p>
+                  Rekayasa perangkat lunak membutuhkan wawasan tentang seluruh proses Anda; menjadi pengetahuan tentang aplikasi Anda dan bahkan industri Anda. Tim kami mengkhususkan diri dalam sistem kontrol dan otomatisasi untuk pabrik pakan, premix, penyimpanan Serbaguna, pengeringan biji-bijian dan industri penanganan material.</p>
+<p>Otomatisasi pabrik akan mencakup asupan bahan baku, penimbangan, penggilingan, pelet, dan pemuatan massal di truk.</p>
+<p>Kontrol PLC atas sensor dan aktuator seperti katup, motor, tombol tekan.
+SCADA (Supervisory Control And Data Acquisition)pemantauan, alarm, dan operasi
+Kontrol batch atas berbagai bagian di lini produksi(s)
+Fungsionalitas seperti kontrol resep, kontrol stok, perutean transportasi, dan lainnya.
+Semua fungsi operator ini dapat dijangkau dalam satu klik mouse dari satu proses tunggal yang berjalan di server. Operator tidak perlu menukar program untuk melakukan berbagai tugas.</p>
 <p>
-We offer a wide range of solutions for our customers.
-
+Kami menawarkan berbagai solusi untuk pelanggan kami.
                   </p>
                 </div>
                 <p className="process__text">
-                    Can we help our clients succeed by installations, training and measurement. 
-                    From the best materials for your companies.
+                Bisakah kami membantu klien kami sukses dengan pemasangan, pelatihan, dan pengukuran.
+                    Dari bahan terbaik untuk perusahaan Anda.
                 </p>
               </div>
             </div>

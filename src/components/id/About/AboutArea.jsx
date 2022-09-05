@@ -25,7 +25,7 @@ const AboutArea = () => {
                             21 <span>+</span>
 
                           </a>
-                          <p>Year Of Experience</p>
+                          <p>Tahun pengalaman kerja</p>
                         </div>
                       </div>
                     </div>
@@ -84,15 +84,15 @@ const AboutArea = () => {
 <p> Solusi terbaik adalah hasil kolaborasi erat dengan pelanggan kami, dari tahap awal hingga commissioning dan serah terima proyek yang sukses. </p>
 <p> Berkat pengetahuan ahli, yang diperoleh selama beberapa dekade, kami adalah mitra ideal untuk implementasi proyek Anda.</p>
 <p> Keahlian kami terletak pada; Desain, pasokan, rekayasa, produksi dan pemasangan mesin, dan industri instalasi sistem lengkap seperti:
-<p>&#x2726; Feed mills plant</p>
-<p>&#x2726; Premix plant, mash feed</p>
-<p>&#x2726; Aqua Feed, Pet food</p>
-<p>&#x2726; Material and grains handling, Flat Storage warehouse</p>
-<p>&#x2726; Silo storage , and grains drying</p>
-<p>&#x2726; Robotic Palletizing</p>
-<p>&#x2726; Hatchery Incubator systems</p>
-<p>&#x2726; Slaugthering house</p>
-<p>&#x2726; Egg grading, packing, processing</p>
+<p>&#x2726; Pabrik pabrik pakan</p>
+<p>&#x2726; Tanaman premix, pakan tumbuk</p>
+<p>&#x2726; Makanan ikan, Makanan hewan peliharaan</p>
+<p>&#x2726; Penanganan material dan biji-bijian, Gudang Penyimpanan </p>
+<p>&#x2726; Penyimpanan silo, dan pengeringan biji-bijian</p>
+<p>&#x2726; Palletisasi Robot</p>
+<p>&#x2726; Sistem Inkubator Penetasan</p>
+<p>&#x2726; Rumah pemotongan hewan</p>
+<p>&#x2726; Grading telur, pengepakan, pemrosesan</p>
 </p>
                 
                 

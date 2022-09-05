@@ -1,13 +1,13 @@
-import Breadcrumb from "../components/common/Automation";
-import Footer from "../components/common/Footer";
-import Header from "../components/common/Header";
-import SEO from "../components/seo";
-import AboutArea from "../components/Automation/AboutArea";
-import ServicesDesc from "../components/Automation/ServicesDesc";
+import Breadcrumb from "../components/id/common/Automation";
+import Footer from "../components/id/common/Footer";
+import Header from "../components/id/common/Header";
+import SEO from "../components/id/seo";
+import AboutArea from "../components/id/Automation/AboutArea";
+import ServicesDesc from "../components/id/Automation/ServicesDesc";
 import SmNavigation from "../components/Automation/SmNavigation";
-import SmServices from "../components/Automation/SmServices";
-import Testimonial from "../components/Automation/Testimonial";
-import SdBanner from "../components/Automation/SdBanner";
+import SmServices from "../components/id/Automation/SmServices";
+import Testimonial from "../components/id/Automation/Testimonial";
+import SdBanner from "../components/id/Automation/SdBanner";
 
 
 const ServicesDetails = () => {
@@ -15,7 +15,7 @@ const ServicesDetails = () => {
         <main>
             <SEO pageTitle="Automation" />
             <Header/>
-            <Breadcrumb title=" " subtitle="Automation" />
+            <Breadcrumb title=" " subtitle="Otomatisasi" />
             <AboutArea/>
             <SmServices/>
             <Testimonial/>

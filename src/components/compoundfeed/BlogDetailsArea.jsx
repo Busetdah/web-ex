@@ -35,18 +35,18 @@ const BlogDetailsArea = () => {
                   
               
                   <p className="b-text mb-30">
-                  Raw material intake systems
-                  Raw material preparation equipment such as cleaners, magnets, de-stoners, etc
-                  Storage facilities such as their square silos and batching equipment of exceptional accuracy
-                  A range of high-performance Hammer Mills delivering grinding outcome of pre-determined particle size distribution.
-                  The base designs evolved into models with options such as automatic screen change
-                  A range of both ribbon and paddle mixers (single and double shaft) with CV’s (coefficient of variation) exceeding international standards
-                  Premix and concentrate plants with very high dosing and weighing accuracy
-                  Pellet pressing, and extrusion processing lines
-                  Counterflow dryers and coolers
-                  Vacuum coaters and continuous coaters
-                  Bulk load-out systems combined with our square silos
-                  A range of transitional equipment suiting every application: bucket elevators, screw conveyors, chain conveyors, pneumatic conveying systems, pendulum conveying systems, etc
+                  &#x2726;Raw material intake systems
+                  &#x2726;Raw material preparation equipment such as cleaners, magnets, de-stoners, etc
+                  &#x2726;Storage facilities such as their square silos and batching equipment of exceptional accuracy
+                  &#x2726;A range of high-performance Hammer Mills delivering grinding outcome of pre-determined particle size distribution.
+                  &#x2726;The base designs evolved into models with options such as automatic screen change
+                  &#x2726;A range of both ribbon and paddle mixers (single and double shaft) with CV’s (coefficient of variation) exceeding international standards
+                  &#x2726;Premix and concentrate plants with very high dosing and weighing accuracy
+                  &#x2726;Pellet pressing, and extrusion processing lines
+                  &#x2726;Counterflow dryers and coolers
+                  &#x2726;Vacuum coaters and continuous coaters
+                  &#x2726;Bulk load-out systems combined with our square silos
+                  &#x2726;A range of transitional equipment suiting every application: bucket elevators, screw conveyors, chain conveyors, pneumatic conveying systems, pendulum conveying systems, etc
 
                   </p>
                   <div className="blog__d-image m-img mb-30">
@@ -62,7 +62,7 @@ A process control with industrial 4.0 automation system through  ensuring overal
 
 </p>
                   <div className="tp-blog__tag">
-                    <span>Keywords : </span>
+                    <span>Post Tag : </span>
                     <a href="#" rel="tag">
                       Animal
                     </a>

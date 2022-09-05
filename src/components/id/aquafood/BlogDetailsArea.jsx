@@ -13,35 +13,35 @@ const BlogDetailsArea = () => {
                     <img src="assets/img/blog/iwak lele.jpg" alt="blog-img" />
                   </div>
                   <h5 className="tp-blog__sm-title mb-20">
-                 Aqua Feed
+                 Makanan Ikan
                   </h5>
                   <p>
-                  The challenge with aqua feed production is to achieve the right density and to produce floating, slow sinking or sinking pellets, while water stability is ensured. As a result of an increase of prices for animal protein and the call for sustainability feed producers look at alternative ingredients which leads to the processing of an increased number of raw materials and ingredients.
+                  Tantangan dengan produksi pakan aqua adalah untuk mencapai kepadatan yang tepat dan untuk menghasilkan pelet mengambang, tenggelam lambat atau tenggelam, sementara stabilitas air terjamin. Akibat kenaikan harga protein hewani dan tuntutan keberlanjutan produsen pakan melihat bahan alternatif yang mengarah pada pengolahan peningkatan jumlah bahan baku dan bahan.
                  </p>
                   
-                  <p>Depending on which machinery is used, different challenges can be met.</p>
+                  <p>Tergantung pada mesin yang digunakan, tantangan yang berbeda dapat dipenuhi.</p>
                   
                   <p>
-                  We believe that sharing know-how and co-creation are essential in finding the perfect fit. Whether you are looking to modernize or expand your aqua feed production, want to replace aging machinery with future-proof innovations, or need advice in the planning and setup of a completely new aqua feed mill, Delta Engineering is the knowledge partner for you.
+                  Kami percaya bahwa berbagi pengetahuan dan kreasi bersama sangat penting dalam menemukan pasangan yang sempurna. Baik Anda ingin memodernisasi atau memperluas produksi pakan aqua Anda, ingin mengganti mesin yang menua dengan inovasi masa depan, atau membutuhkan saran dalam perencanaan dan penyiapan pabrik pakan aqua yang benar-benar baru, Delta Engineering adalah mitra pengetahuan untuk Anda.
                   </p>
                
                  
                   <div className="tp-blog__tag">
-                    <span>Post Tags : </span>
+                    <span>Posting Tag : </span>
                     <a href="#" rel="tag">
-                      Aqua
+                      Air
                     </a>
                     <a href="#" rel="tag">
-                      Food
+                      Makanan
                     </a>
                     <a href="#" rel="tag">
-                      Sea
+                      Laut
                     </a>
                     <a href="#" rel="tag">
-                      Fish
+                      Ikan
                     </a>
                     <a href="#" rel="tag">
-                      Fish Pond
+                      Kolam Ikan
                     </a>
                     
                   </div>

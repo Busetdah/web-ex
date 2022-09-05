@@ -1,11 +1,11 @@
-import AboutArea from "../components/About/AboutArea";
-import CompanyAbout from "../components/About/CompanyAbout";
-import HistoryArea from "../components/About/HistoryArea";
-import Team from "../components/About/Team";
-import Breadcrumb from "../components/common/Breadcrumb";
-import Footer from "../components/common/Footer";
-import Header from "../components/common/Header";
-import SEO from "../components/seo";
+import AboutArea from "../components/id/About/AboutArea";
+import CompanyAbout from "../components/id/About/CompanyAbout";
+import HistoryArea from "../components/id/About/HistoryArea";
+import Team from "../components/id/About/Team";
+import Breadcrumb from "../components/id/common/Breadcrumb";
+import Footer from "../components/id/common/Footer";
+import Header from "../components/id/common/Header";
+import SEO from "../components/id/seo";
 
 
 const about = () => {
@@ -13,7 +13,7 @@ const about = () => {
         <main>
             <SEO pageTitle="About" />
             <Header/>
-            <Breadcrumb title="About us" subtitle="About Company" />
+            <Breadcrumb title="Tentang Kami" subtitle="Tentang Perushaan" />
             <AboutArea/>
             <HistoryArea/>
             <Team/>

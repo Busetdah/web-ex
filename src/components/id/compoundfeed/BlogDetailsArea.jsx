@@ -13,70 +13,69 @@ const BlogDetailsArea = () => {
                     <img src="assets/img/blog/animal-feed-pellet-size.jpg" alt="blog-img" />
                   </div>
                   <h5 className="tp-blog__sm-title mb-20">
-                 Compound Feed
+                 Pakan Majemuk
                   </h5>
                   <p>
-                  The animal feed should be perfectly adapted to the specific type of livestock and their stage in live. This challenges the nutritionist to formulate recipes that make sure the final feed compound contains all the right nutrients in the desired quantities to allow it to be an easy digestible feed with an optimal feed conversion rate.
-                  Feed millers are challenged to optimally process a large number of ingredients and ensure the desired feed quality while keeping capacity high and animal feed costs low.
-
+                  Pakan ternak harus disesuaikan secara sempurna dengan jenis ternak tertentu dan tahapan hidupnya. Ini menantang ahli gizi untuk merumuskan resep yang memastikan senyawa pakan akhir mengandung semua nutrisi yang tepat dalam jumlah yang diinginkan untuk memungkinkannya menjadi pakan yang mudah dicerna dengan tingkat konversi pakan yang optimal.
+                  Pabrik pakan ditantang untuk secara optimal memproses sejumlah besar bahan dan memastikan kualitas pakan yang diinginkan sambil menjaga kapasitas tetap tinggi dan biaya pakan ternak rendah.
 
                   </p>
 
                   <p>
-                  We can help you to find that balance between feed quality and feed costs. With the input of your requirements and our engineering expertise and process know-how we are able to build your feed mill in a configuration that will give you a competitive edge.Equipment and installations for the Compound Feed industry form the heart of the company. Hammer mills with automatic sieve replacement, for example, mixers with bottom flaps for fast, residue-free emptying, meal sterilisation using heat treatment, and dosing installations for micro-ingredients with a very high dosing and weighing accuracy.
+                  Kami dapat membantu Anda menemukan keseimbangan antara kualitas pakan dan biaya pakan. Dengan masukan dari kebutuhan Anda dan keahlian teknik serta pengetahuan proses kami, kami dapat membangun pabrik pakan Anda dalam konfigurasi yang akan memberi Anda keunggulan kompetitif.Peralatan dan instalasi untuk industri Pakan Majemuk membentuk jantung perusahaan. Hammer mill dengan penggantian ayakan otomatis, misalnya, mixer dengan penutup bawah untuk pengosongan yang cepat dan bebas residu, sterilisasi makanan menggunakan perlakuan panas, dan pemasangan takaran untuk bahan-bahan mikro dengan takaran dan akurasi penimbangan yang sangat tinggi.
 
                   </p>
                     <p>
-                    Our Engineers & compound feed manufacturing
-                     Over the years, developed and evolved their own equipment into a very comprehensive range of high quality, efficient processing solutions such as:
+                    Insinyur & manufaktur pakan majemuk kami
+                     Selama bertahun-tahun, mengembangkan dan mengembangkan peralatan mereka sendiri menjadi rangkaian solusi pemrosesan yang efisien dan berkualitas tinggi yang sangat komprehensif seperti:
 
                     </p>
 
                   
               
                   <p className="b-text mb-30">
-                  Raw material intake systems
-                  Raw material preparation equipment such as cleaners, magnets, de-stoners, etc
-                  Storage facilities such as their square silos and batching equipment of exceptional accuracy
-                  A range of high-performance Hammer Mills delivering grinding outcome of pre-determined particle size distribution.
-                  The base designs evolved into models with options such as automatic screen change
-                  A range of both ribbon and paddle mixers (single and double shaft) with CV’s (coefficient of variation) exceeding international standards
-                  Premix and concentrate plants with very high dosing and weighing accuracy
-                  Pellet pressing, and extrusion processing lines
-                  Counterflow dryers and coolers
-                  Vacuum coaters and continuous coaters
-                  Bulk load-out systems combined with our square silos
-                  A range of transitional equipment suiting every application: bucket elevators, screw conveyors, chain conveyors, pneumatic conveying systems, pendulum conveying systems, etc
+                  &#x2726;Sistem pemasukan bahan baku
+                  &#x2726; Peralatan persiapan bahan baku seperti pembersih, magnet, de-stoners, dll
+                  &#x2726;Fasilitas penyimpanan seperti silo persegi dan peralatan batching dengan akurasi luar biasa
+                  &#x2726;Rangkaian Hammer Mills berkinerja tinggi memberikan hasil penggilingan dari distribusi ukuran partikel yang telah ditentukan sebelumnya.
+                  &#x2726;Desain dasar berevolusi menjadi model dengan opsi seperti perubahan layar otomatis
+                  &#x2726; Rangkaian mixer pita dan dayung (poros tunggal dan ganda) dengan CV (koefisien variasi) melebihi standar internasional
+                  &#x2726; Pabrik premix dan konsentrat dengan dosis dan akurasi penimbangan yang sangat tinggi
+                  &#x2726; Pengepresan pelet, dan jalur pemrosesan ekstrusi
+                  &#x2726; Pengering dan pendingin aliran balik
+                  &#x2726; Pelapis vakum dan pelapis kontinu
+                  &#x2726;Sistem pemuatan massal dikombinasikan dengan silo persegi kami
+                  &#x2726;Berbagai peralatan transisi yang cocok untuk setiap aplikasi: elevator ember, konveyor sekrup, konveyor rantai, sistem konveyor pneumatik, sistem konveyor pendulum, dll
 
                   </p>
                   <div className="blog__d-image m-img mb-30">
                     <img src="assets/img/blog/sapi.jpg" alt="" />
                   </div>
                   <h5 className="tp-blog__sm-title mb-20">
-                  We offers two different plant design options depending on the application and specific project requirements:
+                  Kami menawarkan dua opsi desain pabrik yang berbeda tergantung pada aplikasi dan persyaratan proyek tertentu:
                   </h5>
                   <p className="b-text mb-25">
-                  Conventional plant design: where a conventional building is designed to give structural support to all processing equipment the plant contains
-Where all processing equipment and plant processes are designed to fit into of customer request.
-A process control with industrial 4.0 automation system through  ensuring overall plant efficiency is maximized
+                  Desain pabrik konvensional: di mana bangunan konvensional dirancang untuk memberikan dukungan struktural untuk semua peralatan pemrosesan yang ada di pabrik
+Di mana semua peralatan pemrosesan dan proses pabrik dirancang agar sesuai dengan permintaan pelanggan.
+Kontrol proses dengan sistem otomasi industri 4.0 dengan memastikan efisiensi pabrik secara keseluruhan dimaksimalkan
 
 </p>
                   <div className="tp-blog__tag">
-                    <span>Keywords : </span>
+                    <span> Pos Tag : </span>
                     <a href="#" rel="tag">
-                      Animal
+                      Hewan
                     </a>
                     <a href="#" rel="tag">
-                      Feed
+                      Pakan
                     </a>
                     <a href="#" rel="tag">
-                      Pellet
+                      Pelet
                     </a>
                     <a href="#" rel="tag">
-                      Cow
+                     Sapi
                     </a>
                     <a href="#" rel="tag">
-                      Compound
+                      Majemuk
                     </a>
                   </div>
                 </div>
