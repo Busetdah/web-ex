@@ -1,11 +1,11 @@
 import React from "react";
-import Breadcrumb from "../components/common/Breadcrumb";
-import Footer from "../components/common/Footer";
-import Header from "../components/common/Header";
-import FaqArea from "../components/Faq/FaqArea";
-import FaqAreaTwo from "../components/Faq/FaqAreaTwo";
-import BrandArea from "../components/Home/BrandArea";
-import SEO from "../components/seo";
+import Breadcrumb from "../../components/id/common/Breadcrumb";
+import Footer from "../../components/id/common/Footer";
+import Header from "../../components/id/common/Header";
+import FaqArea from "../../components/id/Faq/FaqArea";
+import FaqAreaTwo from "../../components/id/Faq/FaqAreaTwo";
+import BrandArea from "../../components/id/Home/BrandArea";
+import SEO from "../../components/id/seo";
 
 const faq = () => {
   return (

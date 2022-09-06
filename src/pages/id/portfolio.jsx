@@ -1,8 +1,8 @@
-import Breadcrumb from "../components/common/Breadcrumb";
-import Footer from "../components/common/Footer";
-import Header from "../components/common/Header";
-import PortfolioArea from "../components/Portfolio/PortfolioArea";
-import SEO from "../components/seo";
+import Breadcrumb from "../../components/id/common/Breadcrumb";
+import Footer from "../../components/id/common/Footer";
+import Header from "../../components/id/common/Header";
+import PortfolioArea from "../../components/id/Portfolio/PortfolioArea";
+import SEO from "../../components/id/seo";
 
 
 const portfolio = () => {

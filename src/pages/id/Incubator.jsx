@@ -1,12 +1,12 @@
-import Breadcrumb from "../components/common/Breadcrumb";
-import Footer from "../components/common/Footer";
-import Header from "../components/common/Header";
-import SEO from "../components/seo";
-import AboutArea from "../components/ServicesDetails/AboutArea";
-import ServicesDesc from "../components/ServicesDetails/ServicesDesc";
-import SmNavigation from "../components/ServicesDetails/SmNavigation";
-import SmServices from "../components/ServicesDetails/SmServices";
-import Testimonial from "../components/ServicesDetails/Testimonial";
+import Breadcrumb from "../../components/id/common/Breadcrumb";
+import Footer from "../../components/id/common/Footer";
+import Header from "../../components/id/common/Header";
+import SEO from "../../components/id/seo";
+import AboutArea from "../../components/id/ServicesDetails/AboutArea";
+import ServicesDesc from "../../components/id/ServicesDetails/ServicesDesc";
+import SmNavigation from "../../components/id/ServicesDetails/SmNavigation";
+import SmServices from "../../components/id/ServicesDetails/SmServices";
+import Testimonial from "../../components/id/ServicesDetails/Testimonial";
 
 
 const ServicesDetails = () => {

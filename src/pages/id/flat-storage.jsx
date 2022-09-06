@@ -1,8 +1,8 @@
-import BlogDetailsArea from '../components/flatstorage/BlogDetailsArea';
-import Breadcrumb from '../components/common/flatstorageplus';
-import Footer from '../components/common/Footer';
-import Header from '../components/common/Header';
-import SEO from '../components/seo';
+import BlogDetailsArea from '../../components/id/flatstorage/BlogDetailsArea';
+import Breadcrumb from '../../components/id/common/flatstorageplus';
+import Footer from '../../components/id/common/Footer';
+import Header from '../../components/id/common/Header';
+import SEO from '../../components/id/seo';
 
 const BlogDetails = () => {
     return (

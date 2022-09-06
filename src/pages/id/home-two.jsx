@@ -1,16 +1,16 @@
-import AboutArea from "../components/HomeTwo/AboutArea";
-import AppointmentCta from "../components/HomeTwo/AppointmentCta";
-import BrandAreaTwo from "../components/HomeTwo/BrandAreaTwo";
-import FooterTwo from "../components/HomeTwo/FooterTwo";
-import HeaderTwo from "../components/HomeTwo/HeaderTwo";
-import HeroSliderTwo from "../components/HomeTwo/HeroSliderTwo";
-import NewsFeed from "../components/HomeTwo/NewsFeed";
-import Pricing from "../components/HomeTwo/Pricing";
-import ProjectArea from "../components/HomeTwo/ProjectArea";
-import SmServices from "../components/HomeTwo/SmServices";
-import Testimonial from "../components/HomeTwo/Testimonial";
-import VideoArea from "../components/HomeTwo/VideoArea";
-import SEO from "../components/seo";
+import AboutArea from "../../components/id/HomeTwo/AboutArea";
+import AppointmentCta from "../../components/id/HomeTwo/AppointmentCta";
+import BrandAreaTwo from "../../components/id/HomeTwo/BrandAreaTwo";
+import FooterTwo from "../../components/id/HomeTwo/FooterTwo";
+import HeaderTwo from "../../components/id/HomeTwo/HeaderTwo";
+import HeroSliderTwo from "../../components/id/HomeTwo/HeroSliderTwo";
+import NewsFeed from "../../components/id/HomeTwo/NewsFeed";
+import Pricing from "../../components/id/HomeTwo/Pricing";
+import ProjectArea from "../../components/id/HomeTwo/ProjectArea";
+import SmServices from "../../components/id/HomeTwo/SmServices";
+import Testimonial from "../../components/id/HomeTwo/Testimonial";
+import VideoArea from "../../components/id/HomeTwo/VideoArea";
+import SEO from "../../components/id/seo";
 
 
 const HomeTwo = () => {

@@ -1,17 +1,17 @@
-import AboutArea from "../components/HomeThree/AboutArea";
-import BlogArea from "../components/HomeThree/BlogArea";
-import BranAreaThree from "../components/HomeThree/BranAreaThree";
-import CtaArea from "../components/HomeThree/CtaArea";
-import FooterThree from "../components/HomeThree/FooterThree";
-import HeaderThree from "../components/HomeThree/HeaderThree";
-import HeroArea from "../components/HomeThree/HeroArea";
-import PricingThree from "../components/HomeThree/PricingThree";
-import ProcessArea from "../components/HomeThree/ProcessArea";
-import ProjectArea from "../components/HomeThree/ProjectArea";
-import ServicesArea from "../components/HomeThree/ServicesArea";
-import TeamArea from "../components/HomeThree/TeamArea";
-import TestimonialArea from "../components/HomeThree/TestimonialArea";
-import SEO from "../components/seo";
+import AboutArea from "../../components/id/HomeThree/AboutArea";
+import BlogArea from "../../components/id/HomeThree/BlogArea";
+import BranAreaThree from "../../components/id/HomeThree/BranAreaThree";
+import CtaArea from "../../components/id/HomeThree/CtaArea";
+import FooterThree from "../../components/id/HomeThree/FooterThree";
+import HeaderThree from "../../components/id/HomeThree/HeaderThree";
+import HeroArea from "../../components/id/HomeThree/HeroArea";
+import PricingThree from "../../components/id/HomeThree/PricingThree";
+import ProcessArea from "../../components/id/HomeThree/ProcessArea";
+import ProjectArea from "../../components/id/HomeThree/ProjectArea";
+import ServicesArea from "../../components/id/HomeThree/ServicesArea";
+import TeamArea from "../../components/id/HomeThree/TeamArea";
+import TestimonialArea from "../../components/id/HomeThree/TestimonialArea";
+import SEO from "../../components/id/seo";
 
 const HomeThree = () => {
   return (

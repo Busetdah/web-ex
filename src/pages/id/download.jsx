@@ -1,11 +1,11 @@
-import Breadcrumb from '../components/common/Project';
-import Footer from '../components/common/Footer';
-import Header from '../components/common/Header';
-import SEO from '../components/seo';
-import PricingArea from '../components/download/PricingArea';
-import ServicesArea from '../components/download/ServicesArea';
+import Breadcrumb from '../../components/id/common/Project';
+import Footer from '../../components/id/common/Footer';
+import Header from '../../components/id/common/Header';
+import SEO from '../../components/id/seo';
+import PricingArea from '../../components/id/download/PricingArea';
+import ServicesArea from '../../components/id/download/ServicesArea';
 import VideoArea from '../components/download/VideoArea';
-import BlogArea from '../components/download/BlogArea';
+import BlogArea from '../../components/id/download/BlogArea';
 
 const Services = () => {
     return (

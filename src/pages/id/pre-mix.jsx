@@ -1,8 +1,8 @@
-import BlogDetailsArea from '../components/premix/BlogDetailsArea';
-import Breadcrumb from '../components/common/premixplus';
-import Footer from '../components/common/Footer';
-import Header from '../components/common/Header';
-import SEO from '../components/seo';
+import BlogDetailsArea from '../../components/id/premix/BlogDetailsArea';
+import Breadcrumb from '../../components/id/common/premixplus';
+import Footer from '../../components/id/common/Footer';
+import Header from '../../components/id/common/Header';
+import SEO from '../../components/id/seo';
 
 const BlogDetails = () => {
     return (

@@ -1,10 +1,10 @@
-import Breadcrumb from '../components/common/Breadcrumb';
-import Footer from '../components/common/Footer';
-import Header from '../components/common/Header';
-import SEO from '../components/seo';
-import BlogArea from '../components/Services/BlogArea';
-import FactArea from '../components/Team/FactArea';
-import TeamArea from '../components/Team/TeamArea';
+import Breadcrumb from '../../components/id/common/Breadcrumb';
+import Footer from '../../components/id/common/Footer';
+import Header from '../../components/id/common/Header';
+import SEO from '../../components/id/seo';
+import BlogArea from '../../components/id/Services/BlogArea';
+import FactArea from '../../components/id/Team/FactArea';
+import TeamArea from '../../components/id/Team/TeamArea';
 
 const team = () => {
     return (

@@ -1,9 +1,9 @@
-import Breadcrumb from "../components/common/Breadcrumb";
-import Footer from "../components/common/Footer";
-import Header from "../components/common/Header";
-import Pricing from "../components/HomeTwo/Pricing";
-import PricingArea from "../components/Pricing/PricingArea";
-import SEO from "../components/seo";
+import Breadcrumb from "../../components/id/common/Breadcrumb";
+import Footer from "../../components/id/common/Footer";
+import Header from "../../components/id/common/Header";
+import Pricing from "../../components/id/HomeTwo/Pricing";
+import PricingArea from "../../components/id/Pricing/PricingArea";
+import SEO from "../../components/id/seo";
 
 const PricingPage = () => {
   return (

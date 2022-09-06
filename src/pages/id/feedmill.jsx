@@ -1,13 +1,13 @@
-import Breadcrumb from "../components/common/Feedmill";
-import Footer from "../components/common/Footer";
-import Header from "../components/common/Header";
-import SEO from "../components/seo";
-import AboutArea from "../components/Feedmill/AboutArea";
-import ServicesDesc from "../components/Feedmill/ServicesDesc";
+import Breadcrumb from "../../components/id/common/Feedmill";
+import Footer from "../../components/id/common/Footer";
+import Header from "../../components/id/common/Header";
+import SEO from "../../components/id/seo";
+import AboutArea from "../../components/id/Feedmill/AboutArea";
+import ServicesDesc from "../../components/id/Feedmill/ServicesDesc";
 import SmNavigation from "../components/Feedmill/SmNavigation";
-import SmServices from "../components/Feedmill/SmServices";
-import Testimonial from "../components/Feedmill/Testimonial";
-import SdBanner from "../components/Feedmill/SdBanner";
+import SmServices from "../../components/id/Feedmill/SmServices";
+import Testimonial from "../../components/id/Feedmill/Testimonial";
+import SdBanner from "../../components/id/Feedmill/SdBanner";
 
 const ServicesDetails = () => {
     return (

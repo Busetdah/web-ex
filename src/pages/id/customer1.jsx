@@ -1,10 +1,10 @@
-import Breadcrumb from "../components/common/Silow & Gry Drayer";
-import Footer from "../components/common/Footer";
-import Header from "../components/common/Header";
-import SEO from "../components/seo";
-import Blank from "../components/customer1/blank";
-import BrandArea from "../components/customer1/BrandArea";
-import Testimonial from "../components/customer1/Testimonial";
+import Breadcrumb from "../../components/id/common/Silow & Gry Drayer";
+import Footer from "../../components/id/common/Footer";
+import Header from "../../components/id/common/Header";
+import SEO from "../../components/id/seo";
+import Blank from "../../components/id/customer1/blank";
+import BrandArea from "../../components/id/customer1/BrandArea";
+
 
 
 const ServicesDetails = () => {

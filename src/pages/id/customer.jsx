@@ -1,17 +1,17 @@
 import dynamic from 'next/dynamic'
-import Footer from "../components/common/Footer";
-import Header from "../components/common/Header";
-import AboutUs from "../components/Home/AboutUs";
-import BlogArea from "../components/Home/BlogArea";
-import BrandArea from "../components/Home/BrandArea";
-import FeatureArea from "../components/Home/FeatureArea";
-import HeroSlider from "../components/Home/HeroSlider";
-import ProcessArea from "../components/Home/ProcessArea";
-import SdBanner from "../components/Home/SdBanner";
-import ServicesArea from "../components/Home/ServicesArea";
-import TeamArea from "../components/Home/TeamArea";
-import Testimonial from "../components/Home/Testimonial";
-import SEO from "../components/seo";
+import Footer from "../../components/id/common/Footer";
+import Header from "../../components/id/common/Header";
+import AboutUs from "../../components/id/Home/AboutUs";
+import BlogArea from "../../components/id/Home/BlogArea";
+import BrandArea from "../../components/id/Home/BrandArea";
+import FeatureArea from "../../components/id/Home/FeatureArea";
+import HeroSlider from "../../components/id/Home/HeroSlider";
+import ProcessArea from "../../components/id/Home/ProcessArea";
+import SdBanner from "../../components/id/Home/SdBanner";
+import ServicesArea from "../../components/id/Home/ServicesArea";
+import TeamArea from "../../components/id/Home/TeamArea";
+import Testimonial from "../../components/id/Home/Testimonial";
+import SEO from "../../components/id/seo";
 
 const index = () => {
     return (
