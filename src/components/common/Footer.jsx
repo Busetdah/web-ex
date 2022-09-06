@@ -28,7 +28,7 @@ const Footer = () => {
                           <Link href="about">About Us</Link>
                         </li>
                         <li>
-                          <Link href="isntallation">Installation</Link>
+                          <Link href="Sillow">Installation</Link>
                         </li>
                         <li>
                           <Link href="https://www.awila.de/" target="_blank" rel="noopener noreferrer">Product</Link>
