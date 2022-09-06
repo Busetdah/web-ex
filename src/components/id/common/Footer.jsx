@@ -1,4 +1,8 @@
 import Link from 'next/link';
+import dynamic from "next/dynamic";
+const Collapsible = dynamic(() => import("react-collapsible"), {
+  ssr: false,
+});
 
 const Footer = () => {
   return (
@@ -23,24 +27,53 @@ const Footer = () => {
                   <h5 className="footer__widget-title">Pages</h5>
                   <div className="footer__widget-content">
                     <div className="footer__links">
-                      <ul>
+                  <ul>
                         <li>
                           <Link href="about">About Us</Link>
                         </li>
+                        <Collapsible
+                    trigger={<ul><li><a>Installation</a></li></ul>}
+                    triggerTagName="div"
+                    triggerOpenedClassName="icon_closeQ"
+                    triggerClassName="iconAddQ"
+                    open={false}
+                  >
+                    <ul
+                      onClick={() => setShowSidebar(false)}
+                      className="sidebar_sub_menu"
+                    >
+                      <li>
+                        <Link href="/feedmill">Feedmill</Link>
+                      </li>
+                      <li>
+                            <Link href="/Sillow">
+                              <a>Sillo & Grain Dryer</a>
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/Flat">
+                              <a>Flat Storage Warehouse</a>
+
+                              </Link>
+                          </li>
+                          <li>
+                            <Link href="/Packaging">
+                              <a>Packaging & Robotic Palletizing</a></Link>
+                          </li>
+                          <li>
+                            <Link href="/Automation">
+                              <a>Automation</a></Link>
+                          </li>
+                    </ul>
+                  </Collapsible>
                         <li>
-                          <Link href="isntallation">Installation</Link>
-                        </li>
-                        <li>
-                          <Link href="/about">Product</Link>
-                        </li>
-                        <li>
-                          <Link href="/blog">Process</Link>
+                          <Link href="compound-feed">Process</Link>
                         </li>
                         <li>
                           <Link href="Project">Project</Link>
                         </li>
                         <li>
-                          <Link href="/blog">Download</Link>
+                          <Link href="download">Download</Link>
                         </li>
                       </ul>
                     </div>
@@ -99,6 +132,7 @@ const Footer = () => {
                   </div>
                 </div>
               </div>
+              
               <div className="col-xl-4 col-lg-4 col-md-8 col-sm-8">
                 <div className="footer__widget mb-40">
                   <h5 className="footer__widget-title">Connect with us</h5>

@@ -223,9 +223,10 @@
 
 .sidebar_sub_menu{
     list-style: none;
+    background: #de2021;
+    border-radius: 2%;
 }
 .sidebar_sub_menu li{
-    border-bottom: 1px solid #ebebeb;
     padding-bottom: 5px;
 }
 
@@ -234,6 +235,7 @@
     display: inline-block;
     padding-top: 5px;
     padding-bottom: 5px;
+    color: #fff !important;
 }
 .Collapsible__trigger > a,.single_link{
     color: var(--tp-heading-primary);
@@ -311,5 +313,70 @@
     color: #1f1841;
 }
 .single_link.iconAdd::before{
+    display: none;
+}
+
+// For footer
+
+.iconAddQ{
+    position: relative;
+    color: #b4b8bb;
+    padding: 9px 0;
+}
+.sub_child.iconAddQ{
+    padding: 0px;
+}
+.side_navBar .about.iconAddQ::before{
+    display: none;
+}
+.iconAddQ::before{
+    content: '+';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    color:  #b4b8bb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 22px;
+}
+.sub_child.iconAddQ::before{
+    padding: 20px;
+}
+
+.icon_closeQ{
+    position: relative;
+    color:  #b4b8bb;
+    padding: 9px 0;
+}
+.sub_child.icon_closeQ{
+    padding: 0px;
+}
+.icon_closeQ::before{
+    content: '-';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    color:  #b4b8bb;
+    padding: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sub_child.icon_closeQ::before{
+    padding: 20px;
+}
+.side__bar .z-btn-white {
+    background: #ffffff;
+    border-color: #ffffff;
+    color: #1f1841;
+}
+.single_link.iconAddQ::before{
     display: none;
 }
