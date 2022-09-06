@@ -31,7 +31,7 @@ const Footer = () => {
                           <Link href="Sillow">Installation</Link>
                         </li>
                         <li>
-                          <Link href="https://www.awila.de/" target="_blank" rel="noopener noreferrer">Product</Link>
+                          <Link href="https://www.awila.de/">Product</Link>
                         </li>
                         <li>
                           <Link href="compound-feed">Process</Link>
@@ -154,7 +154,7 @@ const Footer = () => {
                     <Link href="/faq">Faq</Link>
                     <Link href="/contact">Careers </Link>
                     <Link href="/contact">Refund Policy</Link>
-                    <Link href="/id">Indonesia</Link>
+                    <Link href="id">Indonesia</Link>
                   </div>
                 </div>
               </div>
