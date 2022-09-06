@@ -11,7 +11,7 @@ import SdBanner from "../../components/id/Home/SdBanner";
 import ServicesArea from "../../components/id/Home/ServicesArea";
 import TeamArea from "../../components/id/Home/TeamArea";
 import Testimonial from "../../components/id/Home/Testimonial";
-import SEO from "../../components/id/seo";
+import SEO from "../../components/seo";
 
 const index = () => {
     return (

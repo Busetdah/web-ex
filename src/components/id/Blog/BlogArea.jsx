@@ -1,9 +1,9 @@
 import Link from 'next/link';
-import BlogData from "../../data/blogData";
+import BlogData from "../../../data/blogData";
 import BlogRightSide from "../common/BlogRightSide";
 import { Swiper, SwiperSlide } from "swiper/react";
 import SwiperCore, { Navigation } from "swiper";
-import useGlobalContext from "../../hook/useGlobalContext";
+import useGlobalContext from "../../../hook/useGlobalContext";
 import VideoModal from "../common/VideoModal";
 
 

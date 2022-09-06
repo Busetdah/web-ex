@@ -5,7 +5,7 @@ import ContactArea from "../../components/id/Contact/ContactArea";
 import BlogArea from "../../components/id/Contact/BlogArea";
 import ContactAreaTwo from "../../components/id/Contact/ContactAreaTwo";
 import ContactMap from "../../components/id/Contact/ContactMap";
-import SEO from "../../components/id/seo";
+import SEO from "../../components/seo";
 
 
 const contact = () => {

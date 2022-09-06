@@ -1,4 +1,4 @@
-import BlogData from "../../data/blogData";
+import BlogData from "../../../data/blogData";
 import Link from 'next/link';
 
 const BlogArea = () => {

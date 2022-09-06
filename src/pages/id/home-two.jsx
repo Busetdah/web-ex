@@ -10,7 +10,7 @@ import ProjectArea from "../../components/id/HomeTwo/ProjectArea";
 import SmServices from "../../components/id/HomeTwo/SmServices";
 import Testimonial from "../../components/id/HomeTwo/Testimonial";
 import VideoArea from "../../components/id/HomeTwo/VideoArea";
-import SEO from "../../components/id/seo";
+import SEO from "../../components/seo";
 
 
 const HomeTwo = () => {

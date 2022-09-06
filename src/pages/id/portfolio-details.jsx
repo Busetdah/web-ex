@@ -3,7 +3,7 @@ import Footer from "../../components/id/common/Footer";
 import Header from "../../components/id/common/Header";
 import PortfolioDetailsArea from "../../components/id/PortfolioDetails/PortfolioDetailsArea";
 import RelatedService from "../../components/id/PortfolioDetails/RelatedService";
-import SEO from "../../components/id/seo";
+import SEO from "../../components/seo";
 
 
 const PortfolioDetails = () => {

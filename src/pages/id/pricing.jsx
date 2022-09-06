@@ -3,7 +3,7 @@ import Footer from "../../components/id/common/Footer";
 import Header from "../../components/id/common/Header";
 import Pricing from "../../components/id/HomeTwo/Pricing";
 import PricingArea from "../../components/id/Pricing/PricingArea";
-import SEO from "../../components/id/seo";
+import SEO from "../../components/seo";
 
 const PricingPage = () => {
   return (

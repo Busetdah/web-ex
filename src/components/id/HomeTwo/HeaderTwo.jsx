@@ -1,6 +1,6 @@
 import Link from "next/link";
-import useSticky from "../../hook/use-sticky";
-import useGlobalContext from "../../hook/useGlobalContext";
+import useSticky from "../../../hook/use-sticky";
+import useGlobalContext from "../../../hook/useGlobalContext";
 import Sidebar from "../common/Sidebar";
 
 const HeaderTwo = () => {

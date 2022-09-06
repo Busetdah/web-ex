@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import BlogData from "../../data/blogData";
+import BlogData from "../../../data/blogData";
 
 const NewsFeed = () => {
   return (

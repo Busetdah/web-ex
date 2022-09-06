@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Link from "next/link";
-import portfolioData from "../../data/portfolioData";
+import portfolioData from "../../../data/portfolioData";
 import { motion } from "framer-motion";
 
 const portfolioItems = portfolioData;

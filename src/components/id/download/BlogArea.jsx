@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import BlogData from "../../data/downloadData";
+import BlogData from "../../../data/downloadData";
 
 const BlogArea = () => {
   return (

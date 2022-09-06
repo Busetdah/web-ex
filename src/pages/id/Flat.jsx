@@ -1,10 +1,9 @@
 import Breadcrumb from "../../components/id/common/Flat Storage";
 import Footer from "../../components/id/common/Footer";
 import Header from "../../components/id/common/Header";
-import SEO from "../../components/id/seo";
+import SEO from "../../components/seo";
 import AboutArea from "../../components/id/Flat Storage/AboutArea";
 import ServicesDesc from "../../components/id/Flat Storage/ServicesDesc";
-import SmNavigation from "../components/Flat Storage/SmNavigation";
 import SmServices from "../../components/id/Flat Storage/SmServices";
 import Testimonial from "../../components/id/Flat Storage/Testimonial";
 import SdBanner from "../../components/id/Flat Storage/SdBanner";

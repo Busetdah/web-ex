@@ -5,7 +5,7 @@ import Team from "../../components/id/About/Team";
 import Breadcrumb from "../../components/id/common/Breadcrumb";
 import Footer from "../../components/id/common/Footer";
 import Header from "../../components/id/common/Header";
-import SEO from "../../components/id/seo";
+import SEO from "../../components/seo";
 
 
 const about = () => {

@@ -11,7 +11,7 @@ import ProjectArea from "../../components/id/HomeThree/ProjectArea";
 import ServicesArea from "../../components/id/HomeThree/ServicesArea";
 import TeamArea from "../../components/id/HomeThree/TeamArea";
 import TestimonialArea from "../../components/id/HomeThree/TestimonialArea";
-import SEO from "../../components/id/seo";
+import SEO from "../../components/seo";
 
 const HomeThree = () => {
   return (

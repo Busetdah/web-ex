@@ -5,7 +5,7 @@ import Header from "../../components/id/common/Header";
 import FaqArea from "../../components/id/Faq/FaqArea";
 import FaqAreaTwo from "../../components/id/Faq/FaqAreaTwo";
 import BrandArea from "../../components/id/Home/BrandArea";
-import SEO from "../../components/id/seo";
+import SEO from "../../components/seo";
 
 const faq = () => {
   return (

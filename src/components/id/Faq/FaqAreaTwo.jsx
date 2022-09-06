@@ -1,4 +1,4 @@
-import useGlobalContext from "../../hook/useGlobalContext";
+import useGlobalContext from "../../../hook/useGlobalContext";
 import VideoModal from "../common/VideoModal";
 
 const FaqAreaTwo = () => {

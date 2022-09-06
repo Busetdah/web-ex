@@ -25,7 +25,7 @@ const ContactAreaTwo = (event) => {
       const JSONdata = JSON.stringify(data)
   
       // API endpoint where we send form data.
-      const endpoint = '/api/form'
+      const endpoint = '../api/form'
   
       // Form the request for sending data to the server.
       const options = {
