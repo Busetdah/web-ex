@@ -223,8 +223,18 @@
 
 .sidebar_sub_menu{
     list-style: none;
+}
+.sidebar_sub_menuQ{
+    list-style: none;
     background: #de2021;
-    border-radius: 2%;
+    border-radius: 2px;
+}
+.sidebar_sub_menuQ li a{
+    padding-left: 25px;
+    display: inline-block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #fff !important;
 }
 .sidebar_sub_menu li{
     padding-bottom: 5px;
@@ -235,7 +245,6 @@
     display: inline-block;
     padding-top: 5px;
     padding-bottom: 5px;
-    color: #fff !important;
 }
 .Collapsible__trigger > a,.single_link{
     color: var(--tp-heading-primary);

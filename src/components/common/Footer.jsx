@@ -1,6 +1,12 @@
 import Link from 'next/link';
+import dynamic from "next/dynamic";
+const Collapsible = dynamic(() => import("react-collapsible"), {
+  ssr: false,
+});
+import useGlobalContext from "../../hook/useGlobalContext";
 
 const Footer = () => {
+const { showSidebar, setShowSidebar } = useGlobalContext(); 
   return (
     <>
       <footer>
@@ -24,18 +30,97 @@ const Footer = () => {
                   <div className="footer__widget-content">
                     <div className="footer__links">
                       <ul>
-                        <li>
-                          <Link href="about">About Us</Link>
-                        </li>
-                        <li>
-                          <Link href="Sillow">Installation</Link>
-                        </li>
-                        <li>
-                          <Link href="https://www.awila.de/">Product</Link>
-                        </li>
-                        <li>
-                          <Link href="compound-feed">Process</Link>
-                        </li>
+                      <Collapsible
+                    trigger={<ul><li><a>Installation</a></li></ul>}
+                    triggerTagName="div"
+                    triggerOpenedClassName="icon_closeQ"
+                    triggerClassName="iconAddQ"
+                    open={false}
+                  >
+                    <ul
+                      onClick={() => setShowSidebar(false)}
+                      className="sidebar_sub_menuQ"
+                    >
+                      <li>
+                        <Link href="/feedmill">Feedmill</Link>
+                      </li>
+                      <li>
+                            <Link href="/Sillow">
+                              <a>Sillo & Grain Dryer</a>
+                            </Link>
+                          </li>
+                          <li>
+                            <Link href="/Flat">
+                              <a>Flat Storage Warehouse</a>
+
+                              </Link>
+                          </li>
+                          <li>
+                            <Link href="/Packaging">
+                              <a>Packaging & Robotic Palletizing</a></Link>
+                          </li>
+                          <li>
+                            <Link href="/Automation">
+                              <a>Automation</a></Link>
+                          </li>
+                    </ul>
+                  </Collapsible>
+                  <Collapsible
+                    trigger={<li><a>Product</a></li>}
+                    triggerTagName="div"
+                    triggerOpenedClassName="icon_closeQ"
+                    triggerClassName="iconAddQ"
+                    open={false}
+                  >
+                    <ul
+                      onClick={() => setShowSidebar(false)}
+                      className="sidebar_sub_menuQ"
+                    >
+                         <li>
+                            <a href="https://www.awila.de/" target="_blank" rel="noopener noreferrer">Awila</a>
+                          </li>
+                          <li>
+                            <a href="https://www.sukup.com/" target="_blank" rel="noopener noreferrer">Sukup</a>
+                          </li>
+                          <li>
+                            <a href="https://www.concetti.com/en-us/" target="_blank" rel="noopener noreferrer">Concetti</a>
+                          </li>
+                          <li>
+                            <a href="https://www.emka-incubators.com/en/" target="_blank" rel="noopener noreferrer">Emka Incubator</a>
+                          </li>
+                          <li>
+                            <a href="https://www.tedom.com/" target="_blank" rel="noopener noreferrer">Tedom</a>
+                          </li>
+                    </ul>
+                  </Collapsible>
+                  <Collapsible
+                    trigger={<li><a>Process</a></li>}
+                    triggerTagName="div"
+                    triggerOpenedClassName="icon_closeQ"
+                    triggerClassName="iconAddQ"
+                    open={false}
+                  >
+                    <ul
+                      onClick={() => setShowSidebar(false)}
+                      className="sidebar_sub_menuQ"
+                    >
+                         <li>
+                            <a href="compound-feed">Compound Feed</a>
+                          </li>
+                          <li>
+                            <a href="pet-food">Pet Food</a>
+                          </li>
+                          <li>
+                            <a href="aqua-food">Aqua Feed</a>
+                          </li>
+                          <li>
+                            <a href="pre-mix">Premix & Mash Feed</a>
+                          </li>
+                          <li>
+                            <a href="flat-storage">Grains, Soybean & Flat Storage</a>
+                          </li>
+                    </ul>
+                  </Collapsible>
                         <li>
                           <Link href="Project">Project</Link>
                         </li>
