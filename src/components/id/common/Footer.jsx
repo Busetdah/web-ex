@@ -200,28 +200,6 @@ const Footer = () => {
                         </button>
                       </form>
                     </div>
-                    <div className="footer__social">
-                      <div className="footer__social-info">
-                        <span>Social Network:</span>
-                        <div className="footer__social-icon">
-                          <a href="#">
-                            <i className="fab fa-facebook-f"></i>
-                          </a>
-                          <a href="#">
-                            <i className="fab fa-twitter"></i>
-                          </a>
-                          <a href="#">
-                            <i className="fab fa-behance"></i>
-                          </a>
-                          <a href="#">
-                            <i className="fab fa-youtube"></i>
-                          </a>
-                          <a href="#">
-                            <i className="fab fa-linkedin"></i>
-                          </a>
-                        </div>
-                      </div>
-                    </div>
                   </div>
                 </div>
               </div>
