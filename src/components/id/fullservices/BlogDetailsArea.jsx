@@ -11,29 +11,28 @@ const BlogDetailsArea = () => {
                 <div className="tp-blog mb-50">
                   
                   <h5 className="tp-blog__sm-title mb-20">
-                  After Sales service
+                  Layanan Penjualan
                   </h5>
                   <p>
-                  Once your factory is up and running, the idea is to keep it operational, efficient and profitable! This is where our policy of wanting to be sustainable is our concern comes into play. Regular maintenance, reliable service, fast response times and availability of spare parts are critical to reducing costs, reducing downtime, increasing revenue and thus overall performance.
+                  Setelah pabrik Anda berdiri dan berjalan, idenya adalah menjaganya tetap beroperasi, efisien, dan menguntungkan! Di sinilah kebijakan kami yang ingin berkelanjutan menjadi perhatian kami. Pemeliharaan rutin, layanan yang andal, waktu respons yang cepat, dan ketersediaan suku cadang sangat penting untuk mengurangi biaya, mengurangi waktu henti, meningkatkan pendapatan, dan dengan demikian kinerja secara keseluruhan.
                   </p>
 
                   
-                  <p>Its cost-effective round-the-clock operation continues to focus on improving after-sales service to its customers. After the successful completion of a project or factory construction, our goal is to ensure a permanent and reliable after-sales service. Provides a very wide range of services that can be applied to small and large operations with the same effect – helping them to remain the best in their field..</p>
+                  <p>Operasi sepanjang waktu yang hemat biaya terus fokus pada peningkatan layanan purna jual kepada pelanggannya. Setelah berhasil menyelesaikan proyek atau konstruksi pabrik, tujuan kami adalah memastikan layanan purna jual yang permanen dan andal. Menyediakan berbagai layanan yang sangat luas yang dapat diterapkan pada operasi kecil dan besar dengan efek yang sama – membantu mereka untuk tetap menjadi yang terbaik di bidangnya..</p>
                   
                   <p>
-                  Contact us for any after-sales questions you may have, including:
+                  Hubungi kami untuk pertanyaan purna jual yang mungkin Anda miliki, termasuk:
                   </p>
                   <p>
-                  Sales of spare parts and spare parts
-Technical assistance – remotely (by phone, remote access or email) or on site
-The handling of complaints
-Contact for all other after-sales problems our skilled Service team. They are ready to help you.
+                  Penjualan suku cadang dan suku cadang
+Bantuan teknis – dari jarak jauh (melalui telepon, akses jarak jauh, atau email) atau di tempat
+Penanganan pengaduan
+Hubungi untuk semua masalah purna jual lainnya tim Layanan kami yang terampil. Mereka siap membantu Anda.
 
                   </p>
                   <p>
-                  Get the facts right, before submitting a service request
-Speed is very important when it comes to making service requests and ordering parts. Therefore, the Technical Customer Service department can be contacted via email: service@…...com. Technical description, and request specification, project number. Your request can best be processed when you fill out a service request form or indicate request details in your email.
-
+                  Dapatkan fakta dengan benar, sebelum mengirimkan permintaan layanan
+Kecepatan sangat penting dalam hal membuat permintaan servis dan memesan suku cadang. Oleh karena itu, departemen Technical Customer Service dapat dihubungi melalui email: service@deltaenginering.com Deskripsi teknis, dan spesifikasi permintaan, nomor proyek. Permintaan Anda paling baik diproses saat Anda mengisi formulir permintaan layanan atau menunjukkan detail permintaan di email Anda.
 
                   </p>
 

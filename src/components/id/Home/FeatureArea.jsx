@@ -15,7 +15,7 @@ const FeatureArea = () => {
               <div className="feature__left mb-40">
                 <div className="section__wrapper mb-45">
                   <h4 className="section__title">
-                    Our Proceses
+                  Proses Kami
                   </h4>
                
                 </div>
@@ -23,30 +23,30 @@ const FeatureArea = () => {
                   <ul>
                     <li>
                       <Link href="/compound-feed">
-                        <a>Compound Feed
+                        <a>Pakan majemuk
                         <i className="fa-light fa-arrow-right-long"></i></a>
                       </Link>
                     </li>
                     <li>
                       <Link href="/petfood">
-                        <a>Pet Food
+                        <a>Pakan Hewan
                         <i className="fa-light fa-arrow-right-long"></i></a>
                       </Link>
                     </li>
                     <li>
                       <Link href="/aqua-feed">
-                        <a>Aqua Feed
+                        <a>Pakan Ikan
                         <i className="fa-light fa-arrow-right-long"></i></a>
                       </Link>
                     </li>
                     <li>
                       <Link href="/pre-mix">
-                        <a>Premix
+                        <a>Premix & Pakan Mesh
                         <i className="fa-light fa-arrow-right-long"></i></a>
                       </Link>
                     </li> <li>
                       <Link href="/flat-storage">
-                        <a>Grains, Soybean & Flat Storage
+                        <a>Penyimpanan Biji-bijian, Kedelai & Serbaguna
                         <i className="fa-light fa-arrow-right-long"></i></a>
                       </Link>
                     </li>

@@ -10,7 +10,7 @@ const BlogArea = () => {
             <div className="col-xl-6 col-lg-6">
               <div className="section__wrapper mb-40">
               <h5 className="tp-blog__sm-title mb-40">
-                  Brochure
+                  Brosur
                     </h5>
                 <div className="r-text">
                   <span></span>
@@ -19,13 +19,13 @@ const BlogArea = () => {
             </div>
           </div>
                   <p>
-                  Since the founding of our company, we have acquired more than 21 years of experience in a process of continuous development, improving and enhancing the performance of the equipment and processes by applying modern design standards and employing the latest production techniques.
+                  Sejak berdirinya perusahaan kami, kami telah memperoleh lebih dari 21 tahun pengalaman dalam proses pengembangan berkelanjutan, meningkatkan dan meningkatkan kinerja peralatan dan proses dengan menerapkan standar desain modern dan menggunakan teknik produksi terbaru.
 
-We design and manufacture all kind of equipment for processing lines and installations like conveying systems, hammer mills, mixers, weighing and dosing installations, sterilization and pelleting systems as well as storage facilities.
+Kami merancang dan memproduksi semua jenis peralatan untuk jalur pemrosesan dan instalasi seperti sistem konveyor, hammer mill, mixer, instalasi penimbangan dan dosis, sistem sterilisasi dan pelet serta fasilitas penyimpanan.
 
-Our designers take full account of the norms and directives that apply to the intended installation, including CE, ATEX and GMP.
+Desainer kami memperhitungkan sepenuhnya norma dan arahan yang berlaku untuk pemasangan yang dimaksud, termasuk CE, ATEX, dan GMP.
 
-On this page, you will find our brochures.
+Di halaman ini, Anda akan menemukan brosur kami.
                   </p>
                   
                 	

@@ -13,36 +13,36 @@ const BlogDetailsArea = () => {
                     <img src="assets/img/blog/soybean.jpg" alt="blog-img" />
                   </div>
                   <h5 className="tp-blog__sm-title mb-20">
-                  Soybean Processing
+                  Pengolahan kedelai
                   </h5>
                  
                   <p>
-                  Soybeans are known for their high nutritional value for food production, and the use in animal feed production. However, soya beans are also known for the presence of Anti Nutritive Factors, which can adversely affect animal productivity and health when used in significant quantities.
+                  Kedelai dikenal karena nilai gizinya yang tinggi untuk produksi pangan, dan digunakan dalam produksi pakan ternak. Namun, kacang kedelai juga dikenal karena adanya Faktor Anti Gizi, yang dapat mempengaruhi produktivitas dan kesehatan hewan jika digunakan dalam jumlah yang signifikan.
                   </p>
                   <p>
-                  The worldwide interest in the use of full-fat soya has increased in the last few years. Processing soybeans into full fat soya creates a high-quality raw material for the production of animal feed. Full fat soya is an important protein source to feed poultry, ruminants, pig, rabbit, fish and crustaceans.
+                  Minat dunia dalam penggunaan kedelai penuh lemak telah meningkat dalam beberapa tahun terakhir. Pengolahan kedelai menjadi kedelai penuh lemak menciptakan bahan baku berkualitas tinggi untuk produksi pakan ternak. Kedelai penuh lemak merupakan sumber protein penting untuk pakan unggas, ruminansia, babi, kelinci, ikan dan krustasea.
                   </p>
                     <p>
-                    Because of new methods for growing soybeans the availability and utilization is improving. The improved circumstances for growing, storage and processing is causing a variation in the composition and nutritional values of the full fat soya.
+                    Karena metode baru untuk menanam kedelai, ketersediaan dan pemanfaatannya meningkat. Kondisi yang lebih baik untuk pertumbuhan, penyimpanan dan pengolahan menyebabkan variasi dalam komposisi dan nilai gizi kedelai penuh lemak.
                     </p>
                   <p>
-                  There are various methods for the processing of soybeans. The most effective soya processing method consists of a combination of heat treatment and crushing. This method removes the anti-nutritional factor and makes the oil more accessible.
+                  Ada berbagai metode untuk pengolahan kedelai. Metode pengolahan kedelai yang paling efektif terdiri dari kombinasi perlakuan panas dan penghancuran. Metode ini menghilangkan faktor anti-nutrisi dan membuat minyak lebih mudah diakses.
                   </p>
                   <p>
-                  See below for an overview of the steps in soybean processing:
-Cleaning – at the start of the soybean processing, it is important to remove stones with a destoner, metal parts with a magnet and small grit & fines with a vibrating sieve.
+                  Lihat di bawah untuk ikhtisar langkah-langkah dalam pengolahan kedelai:
+                  Pembersihan – pada awal pengolahan kedelai, penting untuk menghilangkan batu dengan destoner, bagian logam dengan magnet dan pasir kecil & halus dengan saringan bergetar.
                   </p>
                   <p>
-                  Crushing – a crusher will crush the bean in 4-8 particles, leaving the skin and crushed soybean. The hulls are removed from the crushed pieces through a wind sifter.
+                  Menghancurkan – penghancur akan menghancurkan kacang menjadi 4-8 partikel, meninggalkan kulit dan kedelai yang dihancurkan. Lambung dikeluarkan dari potongan yang dihancurkan melalui saringan angin.
                   </p>
                   <p>
-                  Temperature – the crushed soybeans are brought up to temperature by adding steam in a conditioner. A toaster is used to keep the crushed soybeans at temperature for a longer period of time.
+                  Temperatur – kedelai yang dihancurkan dibawa ke suhu dengan menambahkan uap dalam kondisioner. Pemanggang roti digunakan untuk menyimpan kedelai yang dihancurkan pada suhu untuk jangka waktu yang lebih lama.
                   </p>
                   <p>
-                  Expansion – we use the expander for the expansion of the crushed and conditioned soybean into full-fat soy.
+                  Ekspansi – kami menggunakan expander untuk memperluas kedelai yang dihancurkan dan dikondisikan menjadi kedelai penuh lemak.
                   </p>
                   <p>
-                  Steam – the application of steam on the conditioner, toaster and expander is used to heat up and keep the product warm in order to improve gelatinization.
+                  Steam – aplikasi uap pada kondisioner, pemanggang roti dan expander digunakan untuk memanaskan dan menjaga produk tetap hangat untuk meningkatkan gelatinisasi.
                  </p>
                  <p>
                
@@ -52,39 +52,39 @@ Cleaning – at the start of the soybean processing, it is important to remove s
                     <img src="assets/img/blog/soybean2.jpg" alt="" />
                   </div>
                   <p>
-                  Extruders are well known and commonly used for soya bean treatment. Extruders generate heat and pressure as a result of frictional and shear forces produced within the extruder barrel.
+                  Extruders terkenal dan umum digunakan untuk pengolahan kacang kedelai. Extruder menghasilkan panas dan tekanan sebagai akibat dari gaya gesek dan geser yang dihasilkan di dalam barel extruder.
                     </p>
                     <p>
-                    There are 2 ways of extrusion: dry extrusion and pre steam-conditioned extrusion (semi-dry).
+                    Ada 2 cara ekstrusi: ekstrusi kering dan ekstrusi pra-steam (semi-kering).
                  </p>
                  <p>
-                 The extruder, as our offered, is operated with a steam-conditioner in front of the extruder barrel, when start capacities of 1 t/h and more are required. This steam conditioning increases the extruder capacity, and reduces the wearing parts cost significantly (whilst maintaining a high quality end product).
+                 Extruder, seperti yang kami tawarkan, dioperasikan dengan steam-conditioner di depan barel extruder, ketika kapasitas awal 1 t/jam dan lebih diperlukan. Pengkondisian uap ini meningkatkan kapasitas ekstruder, dan mengurangi biaya suku cadang secara signifikan (sambil mempertahankan produk akhir berkualitas tinggi).
                  </p>
                  <h5 className="tp-blog__sm-title mb-20">
-                 Silo storage, Grains handling, dryers
+                 Penyimpanan silo, Penanganan biji-bijian, pengering
                   </h5>
                  
                   <p className="b-text mb-25">
-                  Delta Engineering is focused on exceptional quality, ease of installation, durability and flexibility across our full range of grains storage solutions Steel silos including corrugated, and material handling, flat-bottom, and hopper bins. aeration and conditioning equipment includes axial and centrifugal fans, industrial fans, sweep auger systems, vents and exhausters, and aeration floors. grains & material handling, chain and flight conveyors, bucket elevators, and cleaning, drying, steel building.
-Our equipment set the standard in the industry and show our commitment to the best quality products.
+                  Delta Engineering berfokus pada kualitas luar biasa, kemudahan pemasangan, daya tahan, dan fleksibilitas di seluruh rangkaian lengkap solusi penyimpanan biji-bijian kami. Silo baja termasuk bergelombang, dan penanganan material, alas datar, dan hopper bin. peralatan aerasi dan pengkondisian termasuk kipas aksial dan sentrifugal, kipas industri, sistem auger menyapu, ventilasi dan knalpot, dan lantai aerasi. penanganan biji-bijian & material, konveyor rantai dan penerbangan, elevator ember, dan pembersihan, pengeringan, pembuatan baja.
+Peralatan kami menetapkan standar di industri dan menunjukkan komitmen kami terhadap produk dengan kualitas terbaik.
 
 </p>
                   <div className="tp-blog__tag">
                     <span>Post Tags : </span>
                     <a href="#" rel="tag">
-                      Animal
+                      Hewan
                     </a>
                     <a href="#" rel="tag">
-                      Feed
+                      Pakan
                     </a>
                     <a href="#" rel="tag">
-                      Soybean
+                      Kedelai
                     </a>
                     <a href="#" rel="tag">
-                      Grains
+                  Biji-bijian
                     </a>
                     <a href="#" rel="tag">
-                      Flat Storage
+               Tempat Serbaguna
                     </a>
                   </div>
                 </div>

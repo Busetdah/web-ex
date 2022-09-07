@@ -12,7 +12,7 @@ const ServicesArea = () => {
       icon: "flaticon-warehouse",
       title: (
         <>
-          Regular  <br /> Inspections
+        Inspeksi  <br /> Reguler
         </>
       ),
     },
@@ -21,7 +21,7 @@ const ServicesArea = () => {
       icon: "flaticon-crusher",
       title: (
         <>
-          Spesific  <br /> Maintenance
+         Pemeliharaan <br /> Maintenance
         </>
       ),
     },
@@ -30,7 +30,7 @@ const ServicesArea = () => {
       icon: "flaticon-factory",
       title: (
         <>
-          Prepentive <br /> &amp; Maintenance
+          Pemeliharaan  <br /> &amp; Pencegahan
         </>
       ),
     },
@@ -55,12 +55,12 @@ const ServicesArea = () => {
                       </h5>
                       <p></p>
                       <p>
-                        We help businesses elevate their value through custom
-                        software development 
+                      Kami membantu bisnis meningkatkan nilainya melalui kebiasaan
+                        pengembangan perangkat lunak
                       </p>
                       <div className="ser__more-option mt-15">
                         <Link href="/services-details">
-                          <a>Service Details
+                          <a>Detail Layanan
                           <i className="fal fa-long-arrow-right"></i></a>
                         </Link>
                       </div>

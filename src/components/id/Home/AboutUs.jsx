@@ -19,28 +19,27 @@ const AboutUs = () => {
               <div className="ab-left-content">
                 <div className="section__wrapper mb-30">
                   <h4 className="section__title">
-                    Our Company Delta Engineering.
+                  Perusahaan Delta Engineering.
                   </h4>
                   <div className="r-text">
                     <span>about us</span>
                   </div>
                 </div>
                 <p className="abd-text">
-                “Customers don’t expect you to be perfect.
-                 But they do expect you to fix things when they go wrong.INDONESIA”
+                “Pelanggan tidak mengharapkan Anda menjadi sempurna.
+                 Tapi mereka mengharapkan Anda untuk memperbaiki hal-hal ketika mereka salah.”
                 </p>
                 <div className="ab-author mb-30">
                   <h5>
-                    Arif Yulianto, S.T <span>- Founder</span>
+                    Arif Yulianto, S.T <span>- Pendiri</span>
                   </h5>
                 </div>
                 <p className="sm-text mb-45">
-                Delta Engineering the core business of is the planning, 
-                design and construction of complete, turnkey and, on request, modular small to large animal feed facilities, and grain handling systems.
+                Delta Engineering adalah jasa perencanaan, desain dan konstruksi lengkap, turnkey dan, berdasarkan permintaan, fasilitas pakan ternak kecil hingga besar modular, dan sistem penanganan biji-bijian.
                 </p>
                 <div className="ab-button mb-30">
                   <Link href="/about">
-                    <a className="tp-btn">Learn More</a>
+                    <a className="tp-btn">Baca lebih banyak</a>
                   </Link>
                 </div>
               </div>

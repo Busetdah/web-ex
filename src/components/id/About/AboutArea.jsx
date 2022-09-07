@@ -54,7 +54,7 @@ const AboutArea = () => {
                    Perusahaan Delta Engineering.
                   </h4>
                   <div className="r-text">
-                    <span>tentang kami</span>
+                    <span>Tentang Kami</span>
                   </div>
                 </div>
                 <p className="abd-text">

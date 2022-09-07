@@ -21,31 +21,31 @@ const AboutArea = () => {
                 <div className="about__info pb-20">
                   <div className="section-2__wrapper mb-30">
                     <h5 className="section__title-sm">
-                      Feedmill Installations
+                    Instalasi Pabrik Pakan
                     </h5>
                   </div>
                   <p>
-                  We design and build installations to meet specific customer needs, according to the latest standards of safety, quality, and reliability. The best solutions are the result of intensive cooperation with our partners and clients.</p>
-<p>This is a challenge not only for the food industry but also definitely for the feed industry. The better the fodder for the species that give us milk, cheese and meat, the better the food on the table. It's that simple. But this is easier said than done. In a time of rising energy prices, resource shortages, emission targets and changing laws, the compound feed industry is being challenged to become more sustainable. Simultaneously the feed mill manager must meet his goal of maximizing sales or optimizing feed for meat, milk or egg production. Experts predict dramatic changes to the world's feed mills over the next 10 years. And how true this is, we don't have to wait 10 years; it has started Especially Europe for now in asia.</p>
-<p>The owners have started to think about the future feed mill industry, having very clear goals about what they want to achieve with their new feed mill.</p>
-<p>The factory built today is a modern feed mill integrated with new industrial technology and a high level of automation is applied to achieve the best in:</p>
+                  Kami merancang dan membangun instalasi untuk memenuhi kebutuhan spesifik pelanggan, sesuai dengan standar keselamatan, kualitas, dan keandalan terbaru. Solusi terbaik adalah hasil kerja sama intensif dengan mitra dan klien kami.</p>
+<p>Ini merupakan tantangan tidak hanya bagi industri makanan tetapi juga bagi industri pakan. Semakin baik makanan untuk spesies yang memberi kita susu, keju, dan daging, semakin baik makanan di atas meja. Sesederhana itu. Tapi ini lebih mudah diucapkan daripada dilakukan. Di saat harga energi meningkat, kekurangan sumber daya, target emisi dan undang-undang yang berubah, industri pakan majemuk ditantang untuk menjadi lebih berkelanjutan. Secara bersamaan manajer pabrik pakan harus memenuhi tujuannya untuk memaksimalkan penjualan atau mengoptimalkan pakan untuk produksi daging, susu atau telur. Para ahli memperkirakan perubahan dramatis pada pabrik pakan dunia selama 10 tahun ke depan. Dan betapa benarnya hal ini, kita tidak perlu menunggu 10 tahun; itu sudah mulai Terutama Eropa untuk saat ini di asia.</p>
+<p>Pemilik mulai berpikir tentang industri pabrik pakan di masa depan, memiliki tujuan yang sangat jelas tentang apa yang ingin mereka capai dengan pabrik pakan baru mereka.</p>
+<p>Pabrik yang dibangun saat ini adalah pabrik pakan modern yang terintegrasi dengan teknologi industri baru dan otomatisasi tingkat tinggi diterapkan untuk mencapai yang terbaik dalam:</p>
 
-<p>&#x2726;	Flexibility and efficiency</p>
-<p>&#x2726;	Cleanliness level</p>
-<p>&#x2726;	Energy efficiency</p>
-<p>&#x2726;	Feed mill automation</p>
+<p>&#x2726;	Fleksibilitas dan efisiensi</p>
+<p>&#x2726; Tingkat kebersihan</p>
+<p>&#x2726;	Efisiensi energi</p>
+<p>&#x2726;	Otomatisasi pabrik pakan</p>
 
 <p>
-Hygienic production
-Not only are they able to provide customized feed for each farmer, everything is done in a very hygienic environment.
+Produksi higienis
+Tidak hanya mereka mampu menyediakan pakan khusus untuk setiap petani, semuanya dilakukan di lingkungan yang sangat higienis.
 
-Clean rooms for steam conditioner, batch mixer, pellet mills, finished feeds, and auto packaging robotic palletizing
+Membersihkan kamar untuk kondisioner uap, mixer batch, pabrik pelet, umpan jadi, dan pembuatan palet robot pengemasan otomatis
 
                   </p>
                 </div>
                 <p className="process__text">
-                    Can we help our clients succeed by installations, training and measurement. 
-                    From the best materials for your companies.
+                Bisakah kami membantu klien kami sukses dengan pemasangan, pelatihan, dan pengukuran.
+                    Dari bahan terbaik untuk perusahaan Anda.
                 </p>
               </div>
             </div>

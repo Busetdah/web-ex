@@ -48,11 +48,11 @@ const BlogRightSide = () => {
           <div className="blog-sidebar__widget mb-55">
             <div className="blog-sidebar__widget-content">
               <div className="blog-sidebar__widget-head mb-30">
-                <h3 className="blog-sidebar__widget-title">Search Here</h3>
+                <h3 className="blog-sidebar__widget-title">Cari disini</h3>
               </div>
               <div className="blog-sidebar__search p-relative">
                 <form action="#">
-                  <input type="text" placeholder="Search your keyword..." />
+                  <input type="text" placeholder="Cari kata kunci mu disini..." />
                   <button type="submit">
                     <i className="fa-light fa-magnifying-glass"></i>
                   </button>
@@ -62,7 +62,7 @@ const BlogRightSide = () => {
           </div>
           <div className="blog-sidebar__widget mb-55">
             <div className="blog-sidebar__widget-head mb-30">
-              <h3 className="blog-sidebar__widget-title">Other Process</h3>
+              <h3 className="blog-sidebar__widget-title">Proses lainnya</h3>
             </div>
             <div className="blog-sidebar__widget-content">
               <div className="rc__post-wrapper">
@@ -78,11 +78,11 @@ const BlogRightSide = () => {
                   <div className="rc__content">
                     <h6 className="rc__title">
                       
-                        Compound Feed
+                        Pakan Majemuk
                       
                     </h6>
                     <div className="sr-button">
-                        <a href="compound-feed" target="_blank">Read More</a>
+                        <a href="compound-feed" target="_blank">Baca lebih banyak</a>
                       </div>
                   </div>
                 </div>
@@ -97,11 +97,11 @@ const BlogRightSide = () => {
                   <div className="rc__content">
                     <h6 className="rc__title">
                       
-                        Pet Food
+                        Pakan Hewan
                       
                     </h6>
                     <div className="sr-button">
-                        <a href="pet-food" target="_blank">Read More</a>
+                        <a href="pet-food" target="_blank">Baca lebih banyak</a>
                       </div>
                   </div>
                 </div>
@@ -116,11 +116,11 @@ const BlogRightSide = () => {
                   <div className="rc__content">
                     <h6 className="rc__title">
                       
-                       Aqua Food
+                       Pakan Ikan
                     
                     </h6>
                     <div className="sr-button">
-                        <a href="aqua-food" target="_blank">Read More</a>
+                        <a href="aqua-food" target="_blank">Baca lebih banyak</a>
                       </div>
                   </div>
                 </div>
@@ -135,13 +135,13 @@ const BlogRightSide = () => {
                   <div className="rc__content">
                     <h6 className="rc__title">
                       
-                      Premix & Mash Feed
+                    Pakan Premix & Mash
                       
                     </h6>
                     <div className="rc__meta">
                       <span>
                       <div className="sr-button">
-                        <a href="pre-mix" target="_blank">Read More</a>
+                        <a href="pre-mix" target="_blank">Baca lebih banyak</a>
                       </div>
                       </span>
                     </div>
@@ -154,18 +154,18 @@ const BlogRightSide = () => {
          
           <div className="blog-sidebar__widget mb-55">
             <div className="blog-sidebar__widget-head mb-30">
-              <h3 className="blog-sidebar__widget-title">Other Keywords</h3>
+              <h3 className="blog-sidebar__widget-title">Kata kunci lainnya</h3>
             </div>
             <div className="blog-sidebar__widget-content">
               <div className="tagcloud">
-                <a href="#">Aqua</a>
-                <a href="#">Fish</a>
+                <a href="#">Air</a>
+                <a href="#">Ikan</a>
                 <a href="#">Premix</a>
-                <a href="#">Concentrate</a>
+                <a href="#">Konsentrat</a>
                 <a href="#">Mash</a>
-                <a href="#">Compound</a>
-                <a href="#">Feed</a>
-                <a href="#">Pond</a>
+                <a href="#">Campuran</a>
+                <a href="#">Pakan</a>
+                <a href="#">Kolam</a>
               </div>
             </div>
           </div>
