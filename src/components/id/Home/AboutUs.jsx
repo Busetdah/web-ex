@@ -38,7 +38,7 @@ const AboutUs = () => {
                 Delta Engineering adalah jasa perencanaan, desain dan konstruksi lengkap, turnkey dan, berdasarkan permintaan, fasilitas pakan ternak kecil hingga besar modular, dan sistem penanganan biji-bijian.
                 </p>
                 <div className="ab-button mb-30">
-                  <Link href="/about">
+                  <Link href="id/about">
                     <a className="tp-btn">Baca lebih banyak</a>
                   </Link>
                 </div>

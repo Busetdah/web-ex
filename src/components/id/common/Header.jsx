@@ -38,26 +38,26 @@ const Header = () => {
                         <Link href=" ">Installation</Link>
                         <ul className="sub-menu">
                           <li>
-                            <Link href="/feedmill">
+                            <Link href="id/feedmill">
                              <a> Feedmill</a></Link>
                           </li>
                           <li>
-                            <Link href="/Sillow">
+                            <Link href="id/Sillow">
                               <a>Silo & Grains Dryer</a>
                             </Link>
                           </li>
                           <li>
-                            <Link href="/Flat">
+                            <Link href="id/Flat">
                               <a>Flat Storage Warehouse</a>
 
                               </Link>
                           </li>
                           <li>
-                            <Link href="/Packaging">
+                            <Link href="id/Packaging">
                               <a>Packaging & Robotic Palletizing</a></Link>
                           </li>
                           <li>
-                            <Link href="/Automation">
+                            <Link href="id/Automation">
                               <a>Automation</a></Link>
                           </li>
                         </ul>
@@ -86,37 +86,37 @@ const Header = () => {
                         <Link href=" ">Process</Link>
                         <ul className="sub-menu">
                           <li>
-                            <a href="compound-feed"   >Compound Feed </a>
+                            <a href="id/compound-feed"   >Compound Feed </a>
                           </li>
                           <li>
-                            <a href="pet-food"  >Pet Food</a>
+                            <a href="id/pet-food"  >Pet Food</a>
                           </li>
                           <li>
-                            <a href="aqua-food" >Aqua Feed</a>
+                            <a href="id/aqua-food" >Aqua Feed</a>
                           </li>
                           <li>
-                            <a href="pre-mix" >Premix & Mash Feed</a>
+                            <a href="id/pre-mix" >Premix & Mash Feed</a>
                           </li>
                           <li>
-                            <a href="flat-storage">Grains, Soybean & Flat Storage</a>
+                            <a href="id/flat-storage">Grains, Soybean & Flat Storage</a>
                           </li>
                         </ul>
                       </li>
                       <li className=" ">
-                        <Link href="/Project">Project</Link>
+                        <Link href="id/Project">Project</Link>
                       </li>
                       <li className=" ">
-                        <a href="services" >Service</a>
+                        <a href="id/services" >Service</a>
                        
                       </li>
                       <li className=" ">
-                        <Link href="/download">Download</Link>
+                        <Link href="id/download">Download</Link>
                       </li>
                       <li className=" ">
-                        <Link href="/customer1">Customer</Link>
+                        <Link href="id/customer1">Customer</Link>
                       </li>
                       <li>
-                        <a href="/contact"  >Contact </a>
+                        <a href="id/contact"  >Contact </a>
                       </li>
                     </ul>
                   </nav>

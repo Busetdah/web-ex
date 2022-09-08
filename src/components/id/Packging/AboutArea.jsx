@@ -21,16 +21,16 @@ const AboutArea = () => {
                 <div className="about__info pb-20">
                   <div className="section-2__wrapper mb-30">
                     <h5 className="section__title-sm">
-                      Packaging & Roboting Palletizing Installations
+                    Instalasi Pengemasan & Pembuatan Palletisasi Robot
                     </h5>
                   </div>
                   <p>
-                  Robotic Palletizing, Our teams put passion into developing a wide range of high quality systems for weighing, bagging and palletizing bulk, solid products Complete, made-to-measure machinery and lines for packaging, reliable, durable, and technologically superior to standard machines. Fully understands how important it is to have an efficient production process. For this reason, it designs automatic complete lines to reduce client problems and increase productivity. Every design is unique and arises from a close collaboration with the client - because the challenges our clients encounter are our challenges too. We produce technologically advanced complete lines of high build quality for weighing, bagging and palletising loose products in bags, boxes and bins. The whole line can be managed through a single control panel. Under this fully automatic system, a switch from one production to another, including a change in bag and sealing types, can be made in approximately 60 seconds, without the need for manual intervention. Our machinery and complete lines are Industry 4.0-ready and can be interconnected to the systems in clients’ factories.
+                  Robotic Palletizing, Tim kami berusaha keras untuk mengembangkan berbagai sistem berkualitas tinggi untuk penimbangan, pengemasan, dan pembuatan palet dalam jumlah besar, produk padat Mesin dan lini pengemasan yang lengkap dan sesuai ukuran untuk pengemasan, andal, tahan lama, dan secara teknologi lebih unggul daripada mesin standar. Sepenuhnya memahami betapa pentingnya memiliki proses produksi yang efisien. Untuk alasan ini, ia merancang jalur lengkap otomatis untuk mengurangi masalah klien dan meningkatkan produktivitas. Setiap desain unik dan muncul dari kolaborasi erat dengan klien - karena tantangan yang dihadapi klien kami juga merupakan tantangan kami. Kami memproduksi lini lengkap berteknologi canggih dengan kualitas build tinggi untuk menimbang, mengantongi, dan membuat palet produk lepas di tas, kotak, dan tempat sampah. Seluruh lini dapat dikelola melalui satu panel kontrol. Di bawah sistem yang sepenuhnya otomatis ini, peralihan dari satu produksi ke produksi lainnya, termasuk perubahan jenis kantong dan penyegelan, dapat dilakukan dalam waktu sekitar 60 detik, tanpa memerlukan intervensi manual. Mesin dan lini lengkap kami siap untuk Industri 4.0 dan dapat dihubungkan ke sistem di pabrik klien.
                   </p>
                 </div>
                 <p className="process__text">
-                    Can we help our clients succeed by installations, training and measurement. 
-                    From the best materials for your companies.
+                Bisakah kami membantu klien kami sukses dengan pemasangan, pelatihan, dan pengukuran.
+                    Dari bahan terbaik untuk perusahaan Anda.
                 </p>
               </div>
             </div>

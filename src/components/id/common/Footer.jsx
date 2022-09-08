@@ -42,25 +42,25 @@ const Footer = () => {
                       className="sidebar_sub_menuQ"
                     >
                       <li>
-                        <Link href="/feedmill">Feedmill</Link>
+                        <Link href="id/feedmill">Feedmill</Link>
                       </li>
                       <li>
-                            <Link href="/Sillow">
+                            <Link href="id/Sillow">
                               <a>Sillo & Grain Dryer</a>
                             </Link>
                           </li>
                           <li>
-                            <Link href="/Flat">
+                            <Link href="id/Flat">
                               <a>Flat Storage Warehouse</a>
 
                               </Link>
                           </li>
                           <li>
-                            <Link href="/Packaging">
+                            <Link href="id/Packaging">
                               <a>Packaging & Robotic Palletizing</a></Link>
                           </li>
                           <li>
-                            <Link href="/Automation">
+                            <Link href="id/Automation">
                               <a>Automation</a></Link>
                           </li>
                     </ul>
@@ -105,27 +105,27 @@ const Footer = () => {
                       className="sidebar_sub_menuQ"
                     >
                          <li>
-                            <a href="compound-feed">Compound Feed</a>
+                            <a href="id/compound-feed">Compound Feed</a>
                           </li>
                           <li>
-                            <a href="pet-food">Pet Food</a>
+                            <a href="id/pet-food">Pet Food</a>
                           </li>
                           <li>
-                            <a href="aqua-food">Aqua Feed</a>
+                            <a href="id/aqua-food">Aqua Feed</a>
                           </li>
                           <li>
-                            <a href="pre-mix">Premix & Mash Feed</a>
+                            <a href="id/pre-mix">Premix & Mash Feed</a>
                           </li>
                           <li>
-                            <a href="flat-storage">Grains, Soybean & Flat Storage</a>
+                            <a href="id/flat-storage">Grains, Soybean & Flat Storage</a>
                           </li>
                     </ul>
                   </Collapsible>
                         <li>
-                          <Link href="Project">Project</Link>
+                          <Link href="id/Project">Project</Link>
                         </li>
                         <li>
-                          <Link href="download">Download</Link>
+                          <Link href="id/download">Download</Link>
                         </li>
                       </ul>
                     </div>
@@ -139,19 +139,19 @@ const Footer = () => {
                     <div className="footer__links">
                       <ul>
                         <li>
-                          <Link href="contact">Contact</Link>
+                          <Link href="id/contact">Contact</Link>
                         </li>
                         <li>
-                          <Link href="customer1">Customer</Link>
+                          <Link href="id/customer1">Customer</Link>
                         </li>
                         <li>
-                          <Link href="Incubator">Incubator</Link>
+                          <Link href="id/Incubator">Incubator</Link>
                         </li>
                         <li>
-                          <Link href="feedmill">Feedmill</Link>
+                          <Link href="id/feedmill">Feedmill</Link>
                         </li>
                         <li>
-                          <Link href="compound-feed">Compound Feed</Link>
+                          <Link href="id/compound-feed">Compound Feed</Link>
                         </li>
                       </ul>
                     </div>
@@ -165,19 +165,19 @@ const Footer = () => {
                     <div className="footer__links">
                       <ul>
                         <li>
-                          <Link href="/services">Overhaul</Link>
+                          <Link href="id//services">Overhaul</Link>
                         </li>
                         <li>
-                          <Link href="/services">Regular Inspections</Link>
+                          <Link href="id//services">Regular Inspections</Link>
                         </li>
                         <li>
-                          <Link href="/services">Spesific Maintenance</Link>
+                          <Link href="id//services">Spesific Maintenance</Link>
                         </li>
                         <li>
-                          <Link href="/services">Prepentive & Maintenance</Link>
+                          <Link href="id//services">Prepentive & Maintenance</Link>
                         </li>
                         <li>
-                          <Link href="/services">Spare Parts Progamme</Link>
+                          <Link href="id//services">Spare Parts Progamme</Link>
                         </li>
                       </ul>
                     </div>
@@ -187,11 +187,11 @@ const Footer = () => {
               
               <div className="col-xl-4 col-lg-4 col-md-8 col-sm-8">
                 <div className="footer__widget mb-40">
-                  <h5 className="footer__widget-title">Connect with us</h5>
+                  <h5 className="footer__widget-title">Terhubung dengan kami</h5>
                   <div className="footer__widget-content">
                     <p className="ft-text mb-35">
-                      Subscribe to our newsletter today by click button below to receive updates on
-                      the latest news, releases and special offers.
+                    Berlangganan buletin kami hari ini dengan mengklik tombol di bawah ini untuk menerima pembaruan tentang
+                      berita terbaru, rilis dan penawaran khusus.
                     </p>
                     <div className="footer__subscribe-form p-relative mb-30">
                       <form action="https://docs.google.com/forms/d/1NLC0o31YAVPeTt-ASS0ZDK48CylhOgGmJAy0kVLHKEU/edit">

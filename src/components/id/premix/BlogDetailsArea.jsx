@@ -13,34 +13,34 @@ const BlogDetailsArea = () => {
                     <img src="assets/img/blog/mashfeed.jpg" alt="blog-img" />
                   </div>
                   <h5 className="tp-blog__sm-title mb-20">
-                 Premix & Mash Feed
+                  Pakan Premix & Mash
                   </h5>
                   <p>
-                  A very long history in the Industry gave our teams the experience and expertise to supply tailor-made solutions for the complete spectrum of Premix & mash feed applications.  Engineering and Equipment solutions range from small mill-and-mix operations to large dedicated feed mills.
+                  Sejarah yang sangat panjang di Industri memberi tim kami pengalaman dan keahlian untuk menyediakan solusi yang dibuat khusus untuk spektrum lengkap aplikasi Premix & mash feed. Solusi Rekayasa dan Peralatan berkisar dari operasi penggilingan dan pencampuran kecil hingga pabrik pakan khusus yang besar.
 
                   </p>
 
                   <p>
-                  Our equipment for premix and mash feed / concentrate plants meet and exceed international standards in terms of design, hygiene, safety and efficiency.  Innovative design results in exceptional mixing accuracy and end product quality.  State-of-the-art engineering layout and process control design leads to negligible cross contamination.
+                  Peralatan kami untuk pabrik pakan / konsentrat premix dan mash memenuhi dan melampaui standar internasional dalam hal desain, kebersihan, keamanan, dan efisiensi. Desain inovatif menghasilkan akurasi pencampuran yang luar biasa dan kualitas produk akhir. Tata letak teknik yang canggih dan desain kontrol proses menghasilkan kontaminasi silang yang dapat diabaikan.
 
                   </p>
                    
                   <div className="tp-blog__tag">
-                    <span>Keywords: </span>
+                    <span>Pos Tag : </span>
                     <a href="#" rel="tag">
-                      Animal
+                      Hewan
                     </a>
                     <a href="#" rel="tag">
-                      Food
+                      Makanan
                     </a>
                     <a href="#" rel="tag">
                       Mash
                     </a>
                     <a href="#" rel="tag">
-                      Feed
+                      Pakan
                     </a>
                     <a href="#" rel="tag">
-                      Concentrate
+                      Konsentrat
                     </a>
                   </div>
                 </div>

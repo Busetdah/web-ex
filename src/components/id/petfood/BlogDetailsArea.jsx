@@ -13,35 +13,36 @@ const BlogDetailsArea = () => {
                     <img src="assets/img/blog/makanan hewan.jpg" alt="blog-img" />
                   </div>
                     <h5 className="tp-blog__sm-title mb-20">
-                  Pet Food
+                 Pakan Hewan
                     </h5>
                   <p>
-                  The global pet food industry is currently fast growing for asian market, pet food experts agree that this trend will continue into the near future. 
-                  Pets are treated as family members, and the “Humanisation of Pets” results in very interesting trends in terms of nutrition and pet food manufacturing, of which the following are just a few examples:
+                  Industri makanan hewan peliharaan global saat ini berkembang pesat untuk pasar Asia, para ahli makanan hewan setuju bahwa tren ini akan berlanjut dalam waktu dekat.
+                  Hewan peliharaan diperlakukan sebagai anggota keluarga, dan “Humanisasi Hewan Peliharaan” menghasilkan tren yang sangat menarik dalam hal nutrisi dan pembuatan makanan hewan peliharaan, di mana berikut ini adalah beberapa contohnya:
+
                  </p>
-                  <p>&#x2726; Modern-day pet owners call themselves pet parents</p>
-                  <p>&#x2726; They refer to their pets as companion animals</p>
-                  <p>&#x2726; These and other factors are driving the requirement for novelty ingredients of exceptional variety, quality and freshness to be used in Premium and Ultra Premium</p>
-                  <p>&#x2726;  Conventional ingredients will always be there for basic or mainstream nutrition</p>
-                  <p>However, novelty ingredients and in particular a very wide variety of fresh meat and ﬁsh ingredients became driving forces in ingredient selection and the subsequent choice of technology to process these ingredients in pet food</p>
+                  <p>&#x2726; Pemilik hewan peliharaan modern menyebut diri mereka sebagai orang tua hewan peliharaan</p>
+                  <p>&#x2726; Mereka menyebut hewan peliharaan mereka sebagai hewan pendamping</p>
+                  <p>&#x2726; Faktor-faktor ini dan lainnya mendorong kebutuhan bahan-bahan baru dengan variasi, kualitas, dan kesegaran yang luar biasa untuk digunakan dalam Premium dan Ultra Premium</p>
+                  <p>&#x2726;  Bahan-bahan konvensional akan selalu ada untuk nutrisi dasar atau mainstream</p>
+                  <p>Namun, bahan-bahan baru dan khususnya variasi yang sangat luas dari bahan daging dan ikan segar menjadi kekuatan pendorong dalam pemilihan bahan dan pilihan teknologi selanjutnya untuk memproses bahan-bahan ini dalam makanan hewan.</p>
                
                  
                   <div className="tp-blog__tag">
-                    <span>Keywords : </span>
+                    <span>Pos Tag : </span>
                     <a href="#" rel="tag">
-                      Pet 
+                      Hewan
                     </a>
                     <a href="#" rel="tag">
-                      Food
+                      Makanan
                     </a>
                     <a href="#" rel="tag">
-                      Animal
+                      Satwa
                     </a>
                     <a href="#" rel="tag">
-                      Dog
+                      Anjing
                     </a>
                     <a href="#" rel="tag">
-                      Cat
+                      Kucing
                     </a>
                   </div>
                 </div>
