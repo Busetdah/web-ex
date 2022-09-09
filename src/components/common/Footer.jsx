@@ -144,9 +144,7 @@ const { showSidebar, setShowSidebar } = useGlobalContext();
                         <li>
                           <Link href="customer1">Customer</Link>
                         </li>
-                        <li>
-                          <Link href="Incubator">Incubator</Link>
-                        </li>
+                     
                         <li>
                           <Link href="feedmill">Feedmill</Link>
                         </li>

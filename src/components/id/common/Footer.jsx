@@ -144,9 +144,7 @@ const Footer = () => {
                         <li>
                           <Link href="id/customer1">Customer</Link>
                         </li>
-                        <li>
-                          <Link href="id/Incubator">Incubator</Link>
-                        </li>
+                       
                         <li>
                           <Link href="id/feedmill">Feedmill</Link>
                         </li>
