@@ -20,7 +20,7 @@ const ContactArea = () => {
                 <h5 className="contact__title mb-25">Email Address</h5>
                 <div className="contact__text">
                   <p>
-                    <a href="mailto:info@webmail.com">contact@deltaenginering.com</a>
+                    <a href="mailto:contact@deltaenginering.com">contact@deltaenginering.com</a>
                   </p>
                 
                 </div>
@@ -64,7 +64,7 @@ const ContactArea = () => {
                 <div className="contact__text">
                   <p>
                     <a
-                      href="#"
+                      href="https://goo.gl/maps/Tvu49yt4g7rnBZsx9"
                       target="blank"
                     >
                      Main Road Sidoarjo - Krian ,<br/> Puri Indah 61271  , <br /> East Java, Indonesia
@@ -73,7 +73,7 @@ const ContactArea = () => {
                 </div>
                 <div className="contact__button mt-30">
                   <a
-                    href="#"
+                    href="https://goo.gl/maps/Tvu49yt4g7rnBZsx9"
                     target="blank"
                     className="tp-btn-white"
                   >
