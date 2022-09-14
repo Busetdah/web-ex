@@ -9,7 +9,7 @@ const BlogDetails = () => {
         <main>
           <SEO pageTitle="Aqua Food" />
           <Header/>
-          <Breadcrumb title=" " subtitle="Makanan Ikan" />  
+          <Breadcrumb title=" " subtitle=" " />  
           <BlogDetailsArea/>
           <Footer/>
         </main>

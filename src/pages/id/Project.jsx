@@ -12,7 +12,7 @@ const Services = () => {
         <main>
             <SEO pageTitle="Project" />
             <Header/>
-            <Breadcrumb title=" " subtitle="Our Project" />
+            <Breadcrumb title=" " subtitle=" " />
             <ServicesArea/>
             <PricingArea/>
             <BlogArea/>

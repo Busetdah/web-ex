@@ -32,38 +32,38 @@ const Header = () => {
                   <nav id="mobile-menu" className="d-none d-lg-block">
                     <ul>
                       <li className=" ">
-                        <Link href="/">Home</Link>
+                        <Link href="/">Beranda</Link>
                       </li>
                       <li className="has-dropdown">
-                        <Link href=" ">Installation</Link>
+                        <Link href=" ">Instalasi</Link>
                         <ul className="sub-menu">
                           <li>
                             <Link href="id/feedmill">
-                             <a> Feedmill</a></Link>
+                             <a> Pabrik Pakan</a></Link>
                           </li>
                           <li>
                             <Link href="id/Sillow">
-                              <a>Silo & Grains Dryer</a>
+                              <a>Pengering Silo & Biji-bijian</a>
                             </Link>
                           </li>
                           <li>
                             <Link href="id/Flat">
-                              <a>Flat Storage Warehouse</a>
+                              <a>Gudang Penyimpanan Serbaguna</a>
 
                               </Link>
                           </li>
                           <li>
                             <Link href="id/Packaging">
-                              <a>Packaging & Robotic Palletizing</a></Link>
+                              <a>Pengemasan & Palletisasi Robot</a></Link>
                           </li>
                           <li>
                             <Link href="id/Automation">
-                              <a>Automation</a></Link>
+                              <a>Otomatisasi</a></Link>
                           </li>
                         </ul>
                       </li>
                       <li className="has-dropdown">
-                        <Link href=" ">Product</Link>
+                        <Link href=" ">Produk</Link>
                         <ul className="sub-menu">
                           <li>
                             <a href="https://www.awila.de/" target="_blank" rel="noopener noreferrer">Awila</a>
@@ -83,40 +83,40 @@ const Header = () => {
                         </ul>
                       </li>
                       <li className="has-dropdown">
-                        <Link href=" ">Process</Link>
+                        <Link href=" ">Proses</Link>
                         <ul className="sub-menu">
                           <li>
-                            <a href="id/compound-feed"   >Compound Feed </a>
+                            <a href="id/compound-feed"   >Pakan Campuran</a>
                           </li>
                           <li>
-                            <a href="id/pet-food"  >Pet Food</a>
+                            <a href="id/pet-food"  >Pakan Hewan</a>
                           </li>
                           <li>
-                            <a href="id/aqua-food" >Aqua Feed</a>
+                            <a href="id/aqua-food" >Pakan Ikan</a>
                           </li>
                           <li>
-                            <a href="id/pre-mix" >Premix & Mash Feed</a>
+                            <a href="id/pre-mix" >Premix & Pakan Mash</a>
                           </li>
                           <li>
-                            <a href="id/flat-storage">Grains, Soybean & Flat Storage</a>
+                            <a href="id/flat-storage">Penyimpanan Biji-bijian, Kedelai & Serbaguna</a>
                           </li>
                         </ul>
                       </li>
                       <li className=" ">
-                        <Link href="id/Project">Project</Link>
+                        <Link href="id/Project">Proyek</Link>
                       </li>
                       <li className=" ">
-                        <a href="id/services" >Service</a>
+                        <a href="id/services" >Servis</a>
                        
                       </li>
                       <li className=" ">
-                        <Link href="id/download">Download</Link>
+                        <Link href="id/download">Unduh</Link>
                       </li>
                       <li className=" ">
-                        <Link href="id/customer1">Customer</Link>
+                        <Link href="id/customer1">Pelanggan</Link>
                       </li>
                       <li>
-                        <a href="id/contact"  >Contact </a>
+                        <a href="id/contact"  >Kontak </a>
                       </li>
                     </ul>
                   </nav>

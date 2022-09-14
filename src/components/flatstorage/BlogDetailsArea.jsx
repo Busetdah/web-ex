@@ -69,24 +69,7 @@ Cleaning – at the start of the soybean processing, it is important to remove s
 Our equipment set the standard in the industry and show our commitment to the best quality products.
 
 </p>
-                  <div className="tp-blog__tag">
-                    <span>Post Tags : </span>
-                    <a href="#" rel="tag">
-                      Animal
-                    </a>
-                    <a href="#" rel="tag">
-                      Feed
-                    </a>
-                    <a href="#" rel="tag">
-                      Soybean
-                    </a>
-                    <a href="#" rel="tag">
-                      Grains
-                    </a>
-                    <a href="#" rel="tag">
-                      Flat Storage
-                    </a>
-                  </div>
+                  
                 </div>
              
               

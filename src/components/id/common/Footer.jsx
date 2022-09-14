@@ -26,12 +26,12 @@ const Footer = () => {
               </div>
               <div className="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                 <div className="footer__widget mb-40">
-                  <h5 className="footer__widget-title">Pages</h5>
+                  <h5 className="footer__widget-title">Halaman</h5>
                   <div className="footer__widget-content">
                     <div className="footer__links">
                   <ul>
                     <Collapsible
-                    trigger={<ul><li><a>Installation</a></li></ul>}
+                    trigger={<ul><li><a>Instalasi</a></li></ul>}
                     triggerTagName="div"
                     triggerOpenedClassName="icon_closeQ"
                     triggerClassName="iconAddQ"
@@ -42,31 +42,31 @@ const Footer = () => {
                       className="sidebar_sub_menuQ"
                     >
                       <li>
-                        <Link href="id/feedmill">Feedmill</Link>
+                        <Link href="id/feedmill">Pabrik Pakan</Link>
                       </li>
                       <li>
                             <Link href="id/Sillow">
-                              <a>Sillo & Grain Dryer</a>
+                              <a>Pengering Silo & Biji-bijian</a>
                             </Link>
                           </li>
                           <li>
                             <Link href="id/Flat">
-                              <a>Flat Storage Warehouse</a>
+                              <a>Pengemasan & Palletisasi Robot</a>
 
                               </Link>
                           </li>
                           <li>
                             <Link href="id/Packaging">
-                              <a>Packaging & Robotic Palletizing</a></Link>
+                              <a>Pengemasan & Palletisasi Robot</a></Link>
                           </li>
                           <li>
                             <Link href="id/Automation">
-                              <a>Automation</a></Link>
+                              <a>Otomatisasi</a></Link>
                           </li>
                     </ul>
                   </Collapsible>
                   <Collapsible
-                    trigger={<li><a>Product</a></li>}
+                    trigger={<li><a>ProduK</a></li>}
                     triggerTagName="div"
                     triggerOpenedClassName="icon_closeQ"
                     triggerClassName="iconAddQ"
@@ -94,7 +94,7 @@ const Footer = () => {
                     </ul>
                   </Collapsible>
                   <Collapsible
-                    trigger={<li><a>Process</a></li>}
+                    trigger={<li><a>Proses</a></li>}
                     triggerTagName="div"
                     triggerOpenedClassName="icon_closeQ"
                     triggerClassName="iconAddQ"
@@ -105,28 +105,23 @@ const Footer = () => {
                       className="sidebar_sub_menuQ"
                     >
                          <li>
-                            <a href="id/compound-feed">Compound Feed</a>
+                            <a href="id/compound-feed">Pakan Campuran</a>
                           </li>
                           <li>
-                            <a href="id/pet-food">Pet Food</a>
+                            <a href="id/pet-food">Pakan Hewan</a>
                           </li>
                           <li>
-                            <a href="id/aqua-food">Aqua Feed</a>
+                            <a href="id/aqua-food">Pakan Ikan</a>
                           </li>
                           <li>
-                            <a href="id/pre-mix">Premix & Mash Feed</a>
+                            <a href="id/pre-mix">Premix & Pakan Mash</a>
                           </li>
                           <li>
-                            <a href="id/flat-storage">Grains, Soybean & Flat Storage</a>
+                            <a href="id/flat-storage">Penyimpanan Biji-bijian, Kedelai & Serbaguna</a>
                           </li>
                     </ul>
                   </Collapsible>
-                        <li>
-                          <Link href="id/Project">Project</Link>
-                        </li>
-                        <li>
-                          <Link href="id/download">Download</Link>
-                        </li>
+                       
                       </ul>
                     </div>
                   </div>
@@ -134,23 +129,22 @@ const Footer = () => {
               </div>
               <div className="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                 <div className="footer__widget mb-40">
-                  <h5 className="footer__widget-title">Other Pages</h5>
+                  <h5 className="footer__widget-title">Halaman Lainnya</h5>
                   <div className="footer__widget-content">
                     <div className="footer__links">
                       <ul>
-                        <li>
-                          <Link href="id/contact">Contact</Link>
+                      <li>
+                          <Link href="id/Project">Proyek</Link>
                         </li>
                         <li>
-                          <Link href="id/customer1">Customer</Link>
+                          <Link href="id/download">Unduh</Link>
+                        </li>
+                        <li>  
+                          <Link href="id/contact">Kontak</Link>
                         </li>
                        
-                        <li>
-                          <Link href="id/feedmill">Feedmill</Link>
-                        </li>
-                        <li>
-                          <Link href="id/compound-feed">Compound Feed</Link>
-                        </li>
+                       
+                        
                       </ul>
                     </div>
                   </div>
@@ -158,25 +152,17 @@ const Footer = () => {
               </div>
               <div className="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                 <div className="footer__widget mb-40">
-                  <h5 className="footer__widget-title">Our Services</h5>
+                  <h5 className="footer__widget-title"> </h5>
                   <div className="footer__widget-content">
                     <div className="footer__links">
                       <ul>
                         <li>
-                          <Link href="id//services">Overhaul</Link>
+                          <Link href="id/services">Servis</Link>
                         </li>
                         <li>
-                          <Link href="id//services">Regular Inspections</Link>
+                          <Link href="id/customer1">Pelanggan</Link>
                         </li>
-                        <li>
-                          <Link href="id//services">Spesific Maintenance</Link>
-                        </li>
-                        <li>
-                          <Link href="id//services">Prepentive & Maintenance</Link>
-                        </li>
-                        <li>
-                          <Link href="id//services">Spare Parts Progamme</Link>
-                        </li>
+                     
                       </ul>
                     </div>
                   </div>
@@ -194,7 +180,7 @@ const Footer = () => {
                     <div className="footer__subscribe-form p-relative mb-30">
                       <form action="https://docs.google.com/forms/d/1NLC0o31YAVPeTt-ASS0ZDK48CylhOgGmJAy0kVLHKEU/edit">
                         <button type="submit" className="s-button">
-                          Subscribe
+                        Berlangganan
                         </button>
                       </form>
                     </div>

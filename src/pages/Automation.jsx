@@ -15,7 +15,7 @@ const ServicesDetails = () => {
         <main>
             <SEO pageTitle="Automation" />
             <Header/>
-            <Breadcrumb title=" " subtitle="Automation" />
+            <Breadcrumb title=" " subtitle=" " />
             <AboutArea/>
             <SmServices/>
             <Testimonial/>

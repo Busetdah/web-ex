@@ -25,24 +25,7 @@ const BlogDetailsArea = () => {
 
                   </p>
                    
-                  <div className="tp-blog__tag">
-                    <span>Keywords: </span>
-                    <a href="#" rel="tag">
-                      Animal
-                    </a>
-                    <a href="#" rel="tag">
-                      Food
-                    </a>
-                    <a href="#" rel="tag">
-                      Mash
-                    </a>
-                    <a href="#" rel="tag">
-                      Feed
-                    </a>
-                    <a href="#" rel="tag">
-                      Concentrate
-                    </a>
-                  </div>
+                
                 </div>
              
               

@@ -14,7 +14,7 @@ const ServicesDetails = () => {
         <main>
             <SEO pageTitle="Silo & Grains Drayer" />
             <Header/>
-            <Breadcrumb title=" " subtitle="Silo & Grains Drayer" />
+            <Breadcrumb title=" " subtitle=" " />
             <AboutArea/>
             <SmServices/>
             <Testimonial/>

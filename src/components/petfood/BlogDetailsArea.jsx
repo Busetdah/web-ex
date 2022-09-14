@@ -26,24 +26,7 @@ const BlogDetailsArea = () => {
                   <p>However, novelty ingredients and in particular a very wide variety of fresh meat and ﬁsh ingredients became driving forces in ingredient selection and the subsequent choice of technology to process these ingredients in pet food</p>
                
                  
-                  <div className="tp-blog__tag">
-                    <span>Keywords : </span>
-                    <a href="#" rel="tag">
-                      Pet 
-                    </a>
-                    <a href="#" rel="tag">
-                      Food
-                    </a>
-                    <a href="#" rel="tag">
-                      Animal
-                    </a>
-                    <a href="#" rel="tag">
-                      Dog
-                    </a>
-                    <a href="#" rel="tag">
-                      Cat
-                    </a>
-                  </div>
+              
                 </div>
              
               

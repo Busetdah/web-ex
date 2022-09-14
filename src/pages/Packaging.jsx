@@ -15,7 +15,7 @@ const ServicesDetails = () => {
         <main>
             <SEO pageTitle="Packaging" />
             <Header/>
-            <Breadcrumb title=" " subtitle="Packaging & Robotic Palletizing" />
+            <Breadcrumb title=" " subtitle=" " />
             <AboutArea/>
             <SmServices/>
             <Testimonial/>

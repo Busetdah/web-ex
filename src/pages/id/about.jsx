@@ -13,7 +13,7 @@ const about = () => {
         <main>
             <SEO pageTitle="About" />
             <Header/>
-            <Breadcrumb title="Tentang Kami" subtitle="Tentang Perushaan" />
+            <Breadcrumb title="Tentang Kami" subtitle=" " />
             <AboutArea/>
             <HistoryArea/>
             <Team/>

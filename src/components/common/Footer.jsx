@@ -138,18 +138,17 @@ const { showSidebar, setShowSidebar } = useGlobalContext();
                   <div className="footer__widget-content">
                     <div className="footer__links">
                       <ul>
+                      <li>
+                          <Link href="Project">Project</Link>
+                        </li>
+                        <li>
+                          <Link href="download">Download</Link>
                         <li>
                           <Link href="contact">Contact</Link>
                         </li>
-                        <li>
-                          <Link href="customer1">Customer</Link>
-                        </li>
+                    
                      
-                        <li>
-                          <Link href="feedmill">Feedmill</Link>
-                        </li>
-                        <li>
-                          <Link href="compound-feed">Compound Feed</Link>
+                    
                         </li>
                       </ul>
                     </div>
@@ -158,25 +157,17 @@ const { showSidebar, setShowSidebar } = useGlobalContext();
               </div>
               <div className="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
                 <div className="footer__widget mb-40">
-                  <h5 className="footer__widget-title">Our Services</h5>
+                  <h5 className="footer__widget-title"> </h5>
                   <div className="footer__widget-content">
                     <div className="footer__links">
                       <ul>
                         <li>
-                          <Link href="/services">Overhaul</Link>
+                          <Link href="/services">Services</Link>
                         </li>
                         <li>
-                          <Link href="/services">Regular Inspections</Link>
+                          <Link href="customer1">Customer</Link>
                         </li>
-                        <li>
-                          <Link href="/services">Spesific Maintenance</Link>
-                        </li>
-                        <li>
-                          <Link href="/services">Prepentive & Maintenance</Link>
-                        </li>
-                        <li>
-                          <Link href="/services">Spare Parts Progamme</Link>
-                        </li>
+                       
                       </ul>
                     </div>
                   </div>

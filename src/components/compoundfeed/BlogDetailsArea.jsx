@@ -61,24 +61,7 @@ Where all processing equipment and plant processes are designed to fit into of c
 A process control with industrial 4.0 automation system through  ensuring overall plant efficiency is maximized
 
 </p>
-                  <div className="tp-blog__tag">
-                    <span>Post Tag : </span>
-                    <a href="#" rel="tag">
-                      Animal
-                    </a>
-                    <a href="#" rel="tag">
-                      Feed
-                    </a>
-                    <a href="#" rel="tag">
-                      Pellet
-                    </a>
-                    <a href="#" rel="tag">
-                      Cow
-                    </a>
-                    <a href="#" rel="tag">
-                      Compound
-                    </a>
-                  </div>
+                 
                 </div>
              
               
